@@ -1,0 +1,4114 @@
+[
+  {
+    "provinsi": "Aceh",
+    "kab-kota": "Kabupaten Aceh Barat",
+    "latlng": "4.4513547,96.0209948,11z",
+    "lat": 4.4513547,
+    "lng": 96.0209948,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Aceh",
+    "kab-kota": "Kabupaten Aceh Barat Daya",
+    "latlng": "3.8354822,96.7024513,11z",
+    "lat": 3.8354822,
+    "lng": 96.7024513,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Aceh",
+    "kab-kota": "Kabupaten Aceh Besar",
+    "latlng": "5.4042128,95.2606207,11z",
+    "lat": 5.4042128,
+    "lng": 95.2606207,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Aceh",
+    "kab-kota": "Kabupaten Aceh Jaya",
+    "latlng": "4.8110668,95.3367145,10z",
+    "lat": 4.8110668,
+    "lng": 95.3367145,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Aceh",
+    "kab-kota": "Kabupaten Aceh Selatan",
+    "latlng": "3.0701233,97.095313,10z",
+    "lat": 3.0701233,
+    "lng": 97.095313,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Aceh",
+    "kab-kota": "Kabupaten Aceh Singkil",
+    "latlng": "2.3072284,97.3025974,10z",
+    "lat": 2.3072284,
+    "lng": 97.3025974,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Aceh",
+    "kab-kota": "Kabupaten Aceh Tamiang",
+    "latlng": "4.218477,97.8366472,11z",
+    "lat": 4.218477,
+    "lng": 97.8366472,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Aceh",
+    "kab-kota": "Kabupaten Aceh Tengah",
+    "latlng": "4.5624343,96.485232,10z",
+    "lat": 4.5624343,
+    "lng": 96.485232,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Aceh",
+    "kab-kota": "Kabupaten Aceh Tenggara",
+    "latlng": "3.3380147,97.4524953,11z",
+    "lat": 3.3380147,
+    "lng": 97.4524953,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Aceh",
+    "kab-kota": "Kabupaten Aceh Timur",
+    "latlng": "4.702724,97.3095986,10z",
+    "lat": 4.702724,
+    "lng": 97.3095986,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Aceh",
+    "kab-kota": "Kabupaten Aceh Utara",
+    "latlng": "4.9936249,96.9858828,11z",
+    "lat": 4.9936249,
+    "lng": 96.9858828,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Aceh",
+    "kab-kota": "Kabupaten Bener Meriah",
+    "latlng": "4.7747743,96.8275877,11z",
+    "lat": 4.7747743,
+    "lng": 96.8275877,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Aceh",
+    "kab-kota": "Kabupaten Bireuen",
+    "latlng": "5.083007,96.4596367,11z",
+    "lat": 5.083007,
+    "lng": 96.4596367,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Aceh",
+    "kab-kota": "Kabupaten Gayo Lues",
+    "latlng": "3.9809833,96.9938969,10z",
+    "lat": 3.9809833,
+    "lng": 96.9938969,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Aceh",
+    "kab-kota": "Kabupaten Nagan Raya",
+    "latlng": "4.1764411,96.176141,10z",
+    "lat": 4.1764411,
+    "lng": 96.176141,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Aceh",
+    "kab-kota": "Kabupaten Pidie",
+    "latlng": "5.1132844,95.7571467,10z",
+    "lat": 5.1132844,
+    "lng": 95.7571467,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Aceh",
+    "kab-kota": "Kabupaten Pidie Jaya",
+    "latlng": "5.1047772,96.1128149,12z",
+    "lat": 5.1047772,
+    "lng": 96.1128149,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Aceh",
+    "kab-kota": "Kabupaten Simeulue",
+    "latlng": "2.5384665,95.7094494,10z",
+    "lat": 2.5384665,
+    "lng": 95.7094494,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Aceh",
+    "kab-kota": "Kota Banda Aceh",
+    "latlng": "5.5611015,95.308103,14z",
+    "lat": 5.5611015,
+    "lng": 95.308103,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Aceh",
+    "kab-kota": "Kota Langsa",
+    "latlng": "4.5064178,97.9591347,13z",
+    "lat": 4.5064178,
+    "lng": 97.9591347,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Aceh",
+    "kab-kota": "Kota Lhokseumawe",
+    "latlng": "5.1718887,97.0664366,13z",
+    "lat": 5.1718887,
+    "lng": 97.0664366,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Aceh",
+    "kab-kota": "Kota Sabang",
+    "latlng": "5.9666912,95.1534602,12z",
+    "lat": 5.9666912,
+    "lng": 95.1534602,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Aceh",
+    "kab-kota": "Kota Subulussalam",
+    "latlng": "2.7572146,97.7768633,11z",
+    "lat": 2.7572146,
+    "lng": 97.7768633,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kabupaten Asahan",
+    "latlng": "2.84683,99.2037054,10z",
+    "lat": 2.84683,
+    "lng": 99.2037054,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kabupaten Batu Bara",
+    "latlng": "3.2304447,99.3151977,11z",
+    "lat": 3.2304447,
+    "lng": 99.3151977,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kabupaten Dairi",
+    "latlng": "2.8353721,98.0907196,11z",
+    "lat": 2.8353721,
+    "lng": 98.0907196,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kabupaten Deli Serdang",
+    "latlng": "3.479921,98.3774679,10z",
+    "lat": 3.479921,
+    "lng": 98.3774679,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kabupaten Humbang Hasundutan",
+    "latlng": "2.2478326,98.4423237,11z",
+    "lat": 2.2478326,
+    "lng": 98.4423237,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kabupaten Karo",
+    "latlng": "3.0998183,98.1068777,11z",
+    "lat": 3.0998183,
+    "lng": 98.1068777,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kabupaten Labuhanbatu",
+    "latlng": "2.2698665,99.6835963,10z",
+    "lat": 2.2698665,
+    "lng": 99.6835963,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kabupaten Labuhanbatu Selatan",
+    "latlng": "1.8337674,99.8956913,11z",
+    "lat": 1.8337674,
+    "lng": 99.8956913,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kabupaten Labuhanbatu Utara",
+    "latlng": "2.4255859,99.4045948,10z",
+    "lat": 2.4255859,
+    "lng": 99.4045948,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kabupaten Langkat",
+    "latlng": "3.760077,97.9021195,10z",
+    "lat": 3.760077,
+    "lng": 97.9021195,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kabupaten Mandailing Natal",
+    "latlng": "0.7795921,99.0591458,10z",
+    "lat": 0.7795921,
+    "lng": 99.0591458,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kabupaten Nias",
+    "latlng": "1.084305,97.5652972,11z",
+    "lat": 1.084305,
+    "lng": 97.5652972,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kabupaten Nias Barat",
+    "latlng": "0.9823155,97.3750369,12z",
+    "lat": 0.9823155,
+    "lng": 97.3750369,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kabupaten Nias Selatan",
+    "latlng": "0.1979917,97.9039809,10z",
+    "lat": 0.1979917,
+    "lng": 97.9039809,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kabupaten Nias Utara",
+    "latlng": "1.310162,97.1246022,11z",
+    "lat": 1.310162,
+    "lng": 97.1246022,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kabupaten Padang Lawas",
+    "latlng": "1.1565372,99.6366691,11z",
+    "lat": 1.1565372,
+    "lng": 99.6366691,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kabupaten Padang Lawas Utara",
+    "latlng": "1.6363819,99.5159089,10z",
+    "lat": 1.6363819,
+    "lng": 99.5159089,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kabupaten Pakpak Bharat",
+    "latlng": "2.530563,98.1037273,11z",
+    "lat": 2.530563,
+    "lng": 98.1037273,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kabupaten Samosir",
+    "latlng": "2.5562129,98.5314072,11z",
+    "lat": 2.5562129,
+    "lng": 98.5314072,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kabupaten Serdang Bedagai",
+    "latlng": "3.3459297,98.8670747,11z",
+    "lat": 3.3459297,
+    "lng": 98.8670747,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kabupaten Simalungun",
+    "latlng": "2.9505638,98.719621,10z",
+    "lat": 2.9505638,
+    "lng": 98.719621,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kabupaten Tapanuli Selatan",
+    "latlng": "1.5510428,98.8496783,10z",
+    "lat": 1.5510428,
+    "lng": 98.8496783,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kabupaten Tapanuli Tengah",
+    "latlng": "1.8693035,98.2665258,10z",
+    "lat": 1.8693035,
+    "lng": 98.2665258,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kabupaten Tapanuli Utara",
+    "latlng": "2.0150426,98.9046478,11z",
+    "lat": 2.0150426,
+    "lng": 98.9046478,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kabupaten Toba",
+    "latlng": "2.3855726,99.0835717,11z",
+    "lat": 2.3855726,
+    "lng": 99.0835717,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kota Binjai",
+    "latlng": "3.6223242,98.4806044,14z",
+    "lat": 3.6223242,
+    "lng": 98.4806044,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kota Gunungsitoli",
+    "latlng": "1.2990104,97.5873056,14z",
+    "lat": 1.2990104,
+    "lng": 97.5873056,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kota Medan",
+    "latlng": "3.6422827,98.5870934,12z",
+    "lat": 3.6422827,
+    "lng": 98.5870934,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kota Padangsidimpuan",
+    "latlng": "1.3868997,99.2446562,13z",
+    "lat": 1.3868997,
+    "lng": 99.2446562,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kota Pematangsiantar",
+    "latlng": "2.9537927,99.0222946,13z",
+    "lat": 2.9537927,
+    "lng": 99.0222946,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kota Sibolga",
+    "latlng": "1.730822,98.7737607,15z",
+    "lat": 1.730822,
+    "lng": 98.7737607,
+    "zoom": 15
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kota Tanjungbalai",
+    "latlng": "2.9672573,99.7674083,14z",
+    "lat": 2.9672573,
+    "lng": 99.7674083,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Sumatera Utara",
+    "kab-kota": "Kota Tebing Tinggi",
+    "latlng": "3.3280668,99.133527,14z",
+    "lat": 3.3280668,
+    "lng": 99.133527,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Sumatera Barat",
+    "kab-kota": "Kabupaten Agam",
+    "latlng": "-0.2531815,99.9889297,11z",
+    "lat": -0.2531815,
+    "lng": 99.9889297,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sumatera Barat",
+    "kab-kota": "Kabupaten Dharmasraya",
+    "latlng": "-1.2506228,101.1896909,10z",
+    "lat": -1.2506228,
+    "lng": 101.1896909,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sumatera Barat",
+    "kab-kota": "Kabupaten Kepulauan Mentawai",
+    "latlng": "-2.4115083,98.9137045,8z",
+    "lat": -2.4115083,
+    "lng": 98.9137045,
+    "zoom": 8
+  },
+  {
+    "provinsi": "Sumatera Barat",
+    "kab-kota": "Kabupaten Lima Puluh Kota",
+    "latlng": "0.0290699,100.3911217,11z",
+    "lat": 0.0290699,
+    "lng": 100.3911217,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sumatera Barat",
+    "kab-kota": "Kabupaten Padang Pariaman",
+    "latlng": "-0.5660192,100.0451277,11z",
+    "lat": -0.5660192,
+    "lng": 100.0451277,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sumatera Barat",
+    "kab-kota": "Kabupaten Pasaman",
+    "latlng": "0.3998819,99.7178198,10z",
+    "lat": 0.3998819,
+    "lng": 99.7178198,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sumatera Barat",
+    "kab-kota": "Kabupaten Pasaman Barat",
+    "latlng": "0.1879583,99.2781078,10z",
+    "lat": 0.1879583,
+    "lng": 99.2781078,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sumatera Barat",
+    "kab-kota": "Kabupaten Pesisir Selatan",
+    "latlng": "-1.7177366,100.4608619,10z",
+    "lat": -1.7177366,
+    "lng": 100.4608619,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sumatera Barat",
+    "kab-kota": "Kabupaten Sijunjung",
+    "latlng": "-0.6487333,100.9781117,11z",
+    "lat": -0.6487333,
+    "lng": 100.9781117,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sumatera Barat",
+    "kab-kota": "Kabupaten Solok",
+    "latlng": "-0.9275302,100.6730782,11z",
+    "lat": -0.9275302,
+    "lng": 100.6730782,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sumatera Barat",
+    "kab-kota": "Kabupaten Solok Selatan",
+    "latlng": "-1.3644653,101.1087768,11z",
+    "lat": -1.3644653,
+    "lng": 101.1087768,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sumatera Barat",
+    "kab-kota": "Kabupaten Tanah Datar",
+    "latlng": "-0.4698166,100.4179877,11z",
+    "lat": -0.4698166,
+    "lng": 100.4179877,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sumatera Barat",
+    "kab-kota": "Kota Bukittinggi",
+    "latlng": "-0.3027606,100.3616803,15z",
+    "lat": -0.3027606,
+    "lng": 100.3616803,
+    "zoom": 15
+  },
+  {
+    "provinsi": "Sumatera Barat",
+    "kab-kota": "Kota Padang",
+    "latlng": "-0.9345826,100.3088697,12z",
+    "lat": -0.9345826,
+    "lng": 100.3088697,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Sumatera Barat",
+    "kab-kota": "Kota Padang Panjang",
+    "latlng": "-0.4653922,100.3848854,15z",
+    "lat": -0.4653922,
+    "lng": 100.3848854,
+    "zoom": 15
+  },
+  {
+    "provinsi": "Sumatera Barat",
+    "kab-kota": "Kota Pariaman",
+    "latlng": "-0.6097221,100.0866131,13z",
+    "lat": -0.6097221,
+    "lng": 100.0866131,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Sumatera Barat",
+    "kab-kota": "Kota Payakumbuh",
+    "latlng": "-0.2294954,100.6121534,14z",
+    "lat": -0.2294954,
+    "lng": 100.6121534,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Sumatera Barat",
+    "kab-kota": "Kota Sawahlunto",
+    "latlng": "-0.5935983,100.7268294,15z",
+    "lat": -0.5935983,
+    "lng": 100.7268294,
+    "zoom": 15
+  },
+  {
+    "provinsi": "Sumatera Barat",
+    "kab-kota": "Kota Solok",
+    "latlng": "-0.7899398,100.6430187,15z",
+    "lat": -0.7899398,
+    "lng": 100.6430187,
+    "zoom": 15
+  },
+  {
+    "provinsi": "Riau",
+    "kab-kota": "Kabupaten Bengkalis",
+    "latlng": "1.5252013,101.3909598,10z",
+    "lat": 1.5252013,
+    "lng": 101.3909598,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Riau",
+    "kab-kota": "Kabupaten Indragiri Hilir",
+    "latlng": "-0.2932691,102.8545189,10z",
+    "lat": -0.2932691,
+    "lng": 102.8545189,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Riau",
+    "kab-kota": "Kabupaten Indragiri Hulu",
+    "latlng": "-0.4925508,101.9188323,10z",
+    "lat": -0.4925508,
+    "lng": 101.9188323,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Riau",
+    "kab-kota": "Kabupaten Kampar",
+    "latlng": "0.3203357,100.7317294,10z",
+    "lat": 0.3203357,
+    "lng": 100.7317294,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Riau",
+    "kab-kota": "Kabupaten Kepulauan Meranti",
+    "latlng": "1.0561936,102.3920128,10z",
+    "lat": 1.0561936,
+    "lng": 102.3920128,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Riau",
+    "kab-kota": "Kabupaten Kuantan Singingi",
+    "latlng": "-0.4938093,101.1469473,10z",
+    "lat": -0.4938093,
+    "lng": 101.1469473,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Riau",
+    "kab-kota": "Kabupaten Pelalawan",
+    "latlng": "0.1625063,101.7762847,9z",
+    "lat": 0.1625063,
+    "lng": 101.7762847,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Riau",
+    "kab-kota": "Kabupaten Rokan Hilir",
+    "latlng": "2.0707514,100.1459914,9z",
+    "lat": 2.0707514,
+    "lng": 100.1459914,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Riau",
+    "kab-kota": "Kabupaten Rokan Hulu",
+    "latlng": "0.8932452,100.1609123,10z",
+    "lat": 0.8932452,
+    "lng": 100.1609123,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Riau",
+    "kab-kota": "Kabupaten Siak",
+    "latlng": "0.8279782,101.2454803,9z",
+    "lat": 0.8279782,
+    "lng": 101.2454803,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Riau",
+    "kab-kota": "Kota Dumai",
+    "latlng": "1.6675754,101.3702596,13z",
+    "lat": 1.6675754,
+    "lng": 101.3702596,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Riau",
+    "kab-kota": "Kota Pekanbaru",
+    "latlng": "0.5137911,101.3999766,13z",
+    "lat": 0.5137911,
+    "lng": 101.3999766,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Jambi",
+    "kab-kota": "Kabupaten Batanghari",
+    "latlng": "-1.8530904,102.6587449,10z",
+    "lat": -1.8530904,
+    "lng": 102.6587449,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Jambi",
+    "kab-kota": "Kabupaten Bungo",
+    "latlng": "-1.5157269,101.6487048,10z",
+    "lat": -1.5157269,
+    "lng": 101.6487048,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Jambi",
+    "kab-kota": "Kabupaten Kerinci",
+    "latlng": "-2.0612249,101.3181481,11z",
+    "lat": -2.0612249,
+    "lng": 101.3181481,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jambi",
+    "kab-kota": "Kabupaten Merangin",
+    "latlng": "-2.2070236,101.7565409,10z",
+    "lat": -2.2070236,
+    "lng": 101.7565409,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Jambi",
+    "kab-kota": "Kabupaten Muaro Jambi",
+    "latlng": "-1.7049143,103.4529698,10z",
+    "lat": -1.7049143,
+    "lng": 103.4529698,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Jambi",
+    "kab-kota": "Kabupaten Sarolangun",
+    "latlng": "-2.332267,102.313005,10z",
+    "lat": -2.332267,
+    "lng": 102.313005,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Jambi",
+    "kab-kota": "Kabupaten Tanjung Jabung Barat",
+    "latlng": "-1.0939444,102.7805024,10z",
+    "lat": -1.0939444,
+    "lng": 102.7805024,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Jambi",
+    "kab-kota": "Kabupaten Tanjung Jabung Timur",
+    "latlng": "-1.2576502,103.572216,10z",
+    "lat": -1.2576502,
+    "lng": 103.572216,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Jambi",
+    "kab-kota": "Kabupaten Tebo",
+    "latlng": "-1.3952144,101.9935754,10z",
+    "lat": -1.3952144,
+    "lng": 101.9935754,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Jambi",
+    "kab-kota": "Kota Jambi",
+    "latlng": "-1.6104358,103.5683291,13z",
+    "lat": -1.6104358,
+    "lng": 103.5683291,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Jambi",
+    "kab-kota": "Kota Sungai Penuh",
+    "latlng": "-2.0670524,101.3909698,14z",
+    "lat": -2.0670524,
+    "lng": 101.3909698,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Sumatera Selatan",
+    "kab-kota": "Kabupaten Banyuasin",
+    "latlng": "-2.3986508,104.4870354,10z",
+    "lat": -2.3986508,
+    "lng": 104.4870354,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sumatera Selatan",
+    "kab-kota": "Kabupaten Empat Lawang",
+    "latlng": "-3.7170297,102.7418422,11z",
+    "lat": -3.7170297,
+    "lng": 102.7418422,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sumatera Selatan",
+    "kab-kota": "Kabupaten Lahat",
+    "latlng": "-3.8769506,103.0139465,10z",
+    "lat": -3.8769506,
+    "lng": 103.0139465,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sumatera Selatan",
+    "kab-kota": "Kabupaten Muara Enim",
+    "latlng": "-3.6969715,103.6681249,10z",
+    "lat": -3.6969715,
+    "lng": 103.6681249,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sumatera Selatan",
+    "kab-kota": "Kabupaten Musi Banyuasin",
+    "latlng": "-2.4957901,103.5007969,10z",
+    "lat": -2.4957901,
+    "lng": 103.5007969,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sumatera Selatan",
+    "kab-kota": "Kabupaten Musi Rawas",
+    "latlng": "-3.1751446,102.738265,10z",
+    "lat": -3.1751446,
+    "lng": 102.738265,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sumatera Selatan",
+    "kab-kota": "Kabupaten Musi Rawas Utara",
+    "latlng": "-2.7061572,102.3873644,10z",
+    "lat": -2.7061572,
+    "lng": 102.3873644,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sumatera Selatan",
+    "kab-kota": "Kabupaten Ogan Ilir",
+    "latlng": "-3.4196469,104.3952438,11z",
+    "lat": -3.4196469,
+    "lng": 104.3952438,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sumatera Selatan",
+    "kab-kota": "Kabupaten Ogan Komering Ilir",
+    "latlng": "-3.3275546,104.7555847,9z",
+    "lat": -3.3275546,
+    "lng": 104.7555847,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Sumatera Selatan",
+    "kab-kota": "Kabupaten Ogan Komering Ulu",
+    "latlng": "-4.1104457,103.7576319,10z",
+    "lat": -4.1104457,
+    "lng": 103.7576319,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sumatera Selatan",
+    "kab-kota": "Kabupaten Ogan Komering Ulu Selatan",
+    "latlng": "-4.5676257,103.554991,10z",
+    "lat": -4.5676257,
+    "lng": 103.554991,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sumatera Selatan",
+    "kab-kota": "Kabupaten Ogan Komering Ulu Timur",
+    "latlng": "-4.1062678,104.2118029,10z",
+    "lat": -4.1062678,
+    "lng": 104.2118029,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sumatera Selatan",
+    "kab-kota": "Kabupaten Penukal Abab Lematang Ilir",
+    "latlng": "-3.2083888,103.7628702,11z",
+    "lat": -3.2083888,
+    "lng": 103.7628702,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sumatera Selatan",
+    "kab-kota": "Kota Lubuk Linggau",
+    "latlng": "-3.2996418,102.8367775,13z",
+    "lat": -3.2996418,
+    "lng": 102.8367775,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Sumatera Selatan",
+    "kab-kota": "Kota Pagaralam",
+    "latlng": "-4.0435642,103.1782012,13z",
+    "lat": -4.0435642,
+    "lng": 103.1782012,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Sumatera Selatan",
+    "kab-kota": "Kota Palembang",
+    "latlng": "-2.9549678,104.7217652,13z",
+    "lat": -2.9549678,
+    "lng": 104.7217652,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Sumatera Selatan",
+    "kab-kota": "Kota Prabumulih",
+    "latlng": "-3.4164712,104.2246671,14z",
+    "lat": -3.4164712,
+    "lng": 104.2246671,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Bengkulu",
+    "kab-kota": "Kabupaten Bengkulu Selatan",
+    "latlng": "-4.358923,102.8796322,11z",
+    "lat": -4.358923,
+    "lng": 102.8796322,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Bengkulu",
+    "kab-kota": "Kabupaten Bengkulu Tengah",
+    "latlng": "-3.6777932,102.3275103,12z",
+    "lat": -3.6777932,
+    "lng": 102.3275103,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Bengkulu",
+    "kab-kota": "Kabupaten Bengkulu Utara",
+    "latlng": "-4.1152754,101.3390649,9z",
+    "lat": -4.1152754,
+    "lng": 101.3390649,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Bengkulu",
+    "kab-kota": "Kabupaten Kaur",
+    "latlng": "-4.1469251,102.6738549,10z",
+    "lat": -4.1469251,
+    "lng": 102.6738549,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Bengkulu",
+    "kab-kota": "Kabupaten Kepahiang",
+    "latlng": "-3.6475317,102.5453739,12z",
+    "lat": -3.6475317,
+    "lng": 102.5453739,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Bengkulu",
+    "kab-kota": "Kabupaten Lebong",
+    "latlng": "-3.0525658,102.0489677,11z",
+    "lat": -3.0525658,
+    "lng": 102.0489677,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Bengkulu",
+    "kab-kota": "Kabupaten Mukomuko",
+    "latlng": "-2.7307999,101.1146869,10z",
+    "lat": -2.7307999,
+    "lng": 101.1146869,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Bengkulu",
+    "kab-kota": "Kabupaten Rejang Lebong",
+    "latlng": "-3.4381468,102.5182952,11z",
+    "lat": -3.4381468,
+    "lng": 102.5182952,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Bengkulu",
+    "kab-kota": "Kabupaten Seluma",
+    "latlng": "-4.0803056,102.4715202,11z",
+    "lat": -4.0803056,
+    "lng": 102.4715202,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Bengkulu",
+    "kab-kota": "Kota Bengkulu",
+    "latlng": "-3.8253449,102.2633794,13z",
+    "lat": -3.8253449,
+    "lng": 102.2633794,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Lampung",
+    "kab-kota": "Kabupaten Lampung Barat",
+    "latlng": "-5.3577973,103.7867391,10z",
+    "lat": -5.3577973,
+    "lng": 103.7867391,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Lampung",
+    "kab-kota": "Kabupaten Lampung Selatan",
+    "latlng": "-5.6697677,105.1389652,10z",
+    "lat": -5.6697677,
+    "lng": 105.1389652,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Lampung",
+    "kab-kota": "Kabupaten Lampung Tengah",
+    "latlng": "-4.8740513,104.852646,10z",
+    "lat": -4.8740513,
+    "lng": 104.852646,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Lampung",
+    "kab-kota": "Kabupaten Lampung Timur",
+    "latlng": "-5.1204316,105.4141151,10z",
+    "lat": -5.1204316,
+    "lng": 105.4141151,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Lampung",
+    "kab-kota": "Kabupaten Lampung Utara",
+    "latlng": "-4.8083692,104.6459783,11z",
+    "lat": -4.8083692,
+    "lng": 104.6459783,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Lampung",
+    "kab-kota": "Kabupaten Mesuji",
+    "latlng": "-3.9740576,105.2389733,11z",
+    "lat": -3.9740576,
+    "lng": 105.2389733,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Lampung",
+    "kab-kota": "Kabupaten Pesawaran",
+    "latlng": "-5.4821029,104.9737247,11z",
+    "lat": -5.4821029,
+    "lng": 104.9737247,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Lampung",
+    "kab-kota": "Kabupaten Pesisir Barat",
+    "latlng": "-5.3337747,103.7471525,10z",
+    "lat": -5.3337747,
+    "lng": 103.7471525,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Lampung",
+    "kab-kota": "Kabupaten Pringsewu",
+    "latlng": "-5.4439641,104.8375233,11z",
+    "lat": -5.4439641,
+    "lng": 104.8375233,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Lampung",
+    "kab-kota": "Kabupaten Tanggamus",
+    "latlng": "-5.4762874,104.3750321,10z",
+    "lat": -5.4762874,
+    "lng": 104.3750321,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Lampung",
+    "kab-kota": "Kabupaten Tulang Bawang",
+    "latlng": "-4.3978919,105.3726354,11z",
+    "lat": -4.3978919,
+    "lng": 105.3726354,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Lampung",
+    "kab-kota": "Kabupaten Tulang Bawang Barat",
+    "latlng": "-4.4329072,104.9329958,11z",
+    "lat": -4.4329072,
+    "lng": 104.9329958,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Lampung",
+    "kab-kota": "Kabupaten Way Kanan",
+    "latlng": "-4.5732787,104.5126237,11z",
+    "lat": -4.5732787,
+    "lng": 104.5126237,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Lampung",
+    "kab-kota": "Kota Bandar Lampung",
+    "latlng": "-5.4286707,105.2295387,13z",
+    "lat": -5.4286707,
+    "lng": 105.2295387,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Lampung",
+    "kab-kota": "Kota Metro",
+    "latlng": "-5.1210839,105.2864672,14z",
+    "lat": -5.1210839,
+    "lng": 105.2864672,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Kepulauan Bangka Belitung",
+    "kab-kota": "Kabupaten Bangka",
+    "latlng": "-1.9338395,105.6122162,10z",
+    "lat": -1.9338395,
+    "lng": 105.6122162,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Kepulauan Bangka Belitung",
+    "kab-kota": "Kabupaten Bangka Barat",
+    "latlng": "-1.8402973,105.2823237,11z",
+    "lat": -1.8402973,
+    "lng": 105.2823237,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Kepulauan Bangka Belitung",
+    "kab-kota": "Kabupaten Bangka Selatan",
+    "latlng": "-2.8070982,106.1793644,10z",
+    "lat": -2.8070982,
+    "lng": 106.1793644,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Kepulauan Bangka Belitung",
+    "kab-kota": "Kabupaten Bangka Tengah",
+    "latlng": "-2.4327913,105.9690968,10z",
+    "lat": -2.4327913,
+    "lng": 105.9690968,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Kepulauan Bangka Belitung",
+    "kab-kota": "Kabupaten Belitung",
+    "latlng": "-2.9294771,107.221903,10z",
+    "lat": -2.9294771,
+    "lng": 107.221903,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Kepulauan Bangka Belitung",
+    "kab-kota": "Kabupaten Belitung Timur",
+    "latlng": "-2.9547167,107.969698,10z",
+    "lat": -2.9547167,
+    "lng": 107.969698,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Kepulauan Bangka Belitung",
+    "kab-kota": "Kota Pangkalpinang",
+    "latlng": "-2.1159942,106.0793275,13z",
+    "lat": -2.1159942,
+    "lng": 106.0793275,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Kepulauan Riau",
+    "kab-kota": "Kabupaten Bintan",
+    "latlng": "0.9067971,104.8823704,8z",
+    "lat": 0.9067971,
+    "lng": 104.8823704,
+    "zoom": 8
+  },
+  {
+    "provinsi": "Kepulauan Riau",
+    "kab-kota": "Kabupaten Karimun",
+    "latlng": "0.8210866,103.4670612,11z",
+    "lat": 0.8210866,
+    "lng": 103.4670612,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Kepulauan Riau",
+    "kab-kota": "Kabupaten Kepulauan Anambas",
+    "latlng": "3.0974062,105.6188406,13z",
+    "lat": 3.0974062,
+    "lng": 105.6188406,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Kepulauan Riau",
+    "kab-kota": "Kabupaten Lingga",
+    "latlng": "-0.1771226,104.1800939,10z",
+    "lat": -0.1771226,
+    "lng": 104.1800939,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Kepulauan Riau",
+    "kab-kota": "Kabupaten Natuna",
+    "latlng": "3.9999998,108.2397003,15z",
+    "lat": 3.9999998,
+    "lng": 108.2397003,
+    "zoom": 15
+  },
+  {
+    "provinsi": "Kepulauan Riau",
+    "kab-kota": "Kota Batam",
+    "latlng": "0.8371625,103.8883093,11z",
+    "lat": 0.8371625,
+    "lng": 103.8883093,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Kepulauan Riau",
+    "kab-kota": "Kota Tanjungpinang",
+    "latlng": "0.9170619,104.4639978,14z",
+    "lat": 0.9170619,
+    "lng": 104.4639978,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Daerah Khusus Jakarta",
+    "kab-kota": "Kabupaten Administrasi Kepulauan Seribu",
+    "latlng": "-5.6121482,106.2873625,10z",
+    "lat": -5.6121482,
+    "lng": 106.2873625,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Daerah Khusus Jakarta",
+    "kab-kota": "Kota Administrasi Jakarta Barat",
+    "latlng": "-6.160167,106.7160601,13z",
+    "lat": -6.160167,
+    "lng": 106.7160601,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Daerah Khusus Jakarta",
+    "kab-kota": "Kota Administrasi Jakarta Pusat",
+    "latlng": "-6.1823126,106.8158651,14z",
+    "lat": -6.1823126,
+    "lng": 106.8158651,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Daerah Khusus Jakarta",
+    "kab-kota": "Kota Administrasi Jakarta Selatan",
+    "latlng": "-6.2841049,106.7608801,13z",
+    "lat": -6.2841049,
+    "lng": 106.7608801,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Daerah Khusus Jakarta",
+    "kab-kota": "Kota Administrasi Jakarta Timur",
+    "latlng": "-6.2611417,106.82262,12z",
+    "lat": -6.2611417,
+    "lng": 106.82262,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Daerah Khusus Jakarta",
+    "kab-kota": "Kota Administrasi Jakarta Utara",
+    "latlng": "-6.1358797,106.7595004,12z",
+    "lat": -6.1358797,
+    "lng": 106.7595004,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Jawa Barat",
+    "kab-kota": "Kabupaten Bandung",
+    "latlng": "-7.0634436,107.4263658,11z",
+    "lat": -7.0634436,
+    "lng": 107.4263658,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Barat",
+    "kab-kota": "Kabupaten Bandung Barat",
+    "latlng": "-6.9052358,107.2894283,11z",
+    "lat": -6.9052358,
+    "lng": 107.2894283,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Barat",
+    "kab-kota": "Kabupaten Bekasi",
+    "latlng": "-6.2676917,106.9421368,11z",
+    "lat": -6.2676917,
+    "lng": 106.9421368,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Barat",
+    "kab-kota": "Kabupaten Bogor",
+    "latlng": "-6.5453367,106.6492928,11z",
+    "lat": -6.5453367,
+    "lng": 106.6492928,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Barat",
+    "kab-kota": "Kabupaten Ciamis",
+    "latlng": "-7.31129,108.2826106,11z",
+    "lat": -7.31129,
+    "lng": 108.2826106,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Barat",
+    "kab-kota": "Kabupaten Cianjur",
+    "latlng": "-7.0532635,106.8008098,10z",
+    "lat": -7.0532635,
+    "lng": 106.8008098,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Jawa Barat",
+    "kab-kota": "Kabupaten Cirebon",
+    "latlng": "-6.7612722,108.4204984,11z",
+    "lat": -6.7612722,
+    "lng": 108.4204984,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Barat",
+    "kab-kota": "Kabupaten Garut",
+    "latlng": "-7.3432952,107.6133478,11z",
+    "lat": -7.3432952,
+    "lng": 107.6133478,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Barat",
+    "kab-kota": "Kabupaten Indramayu",
+    "latlng": "-6.4425272,108.0318705,11z",
+    "lat": -6.4425272,
+    "lng": 108.0318705,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Barat",
+    "kab-kota": "Kabupaten Karawang",
+    "latlng": "-6.2647808,107.1989242,11z",
+    "lat": -6.2647808,
+    "lng": 107.1989242,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Barat",
+    "kab-kota": "Kabupaten Kuningan",
+    "latlng": "-6.9878869,108.5066199,12z",
+    "lat": -6.9878869,
+    "lng": 108.5066199,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Jawa Barat",
+    "kab-kota": "Kabupaten Majalengka",
+    "latlng": "-6.8071595,108.0602052,11z",
+    "lat": -6.8071595,
+    "lng": 108.0602052,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Barat",
+    "kab-kota": "Kabupaten Pangandaran",
+    "latlng": "-7.6404273,108.3918869,11z",
+    "lat": -7.6404273,
+    "lng": 108.3918869,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Barat",
+    "kab-kota": "Kabupaten Purwakarta",
+    "latlng": "-6.5923907,107.3275334,12z",
+    "lat": -6.5923907,
+    "lng": 107.3275334,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Jawa Barat",
+    "kab-kota": "Kabupaten Subang",
+    "latlng": "-6.4981243,107.5609234,11z",
+    "lat": -6.4981243,
+    "lng": 107.5609234,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Barat",
+    "kab-kota": "Kabupaten Sukabumi",
+    "latlng": "-6.8494052,106.9141057,13z",
+    "lat": -6.8494052,
+    "lng": 106.9141057,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Jawa Barat",
+    "kab-kota": "Kabupaten Sumedang",
+    "latlng": "-6.8098647,107.8156954,11z",
+    "lat": -6.8098647,
+    "lng": 107.8156954,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Barat",
+    "kab-kota": "Kabupaten Tasikmalaya",
+    "latlng": "-7.42764,108.0086529,11z",
+    "lat": -7.42764,
+    "lng": 108.0086529,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Barat",
+    "kab-kota": "Kota Bandung",
+    "latlng": "-6.9034477,107.6019582,13z",
+    "lat": -6.9034477,
+    "lng": 107.6019582,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Jawa Barat",
+    "kab-kota": "Kota Banjar",
+    "latlng": "-7.3724807,108.4950049,13z",
+    "lat": -7.3724807,
+    "lng": 108.4950049,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Jawa Barat",
+    "kab-kota": "Kota Bekasi",
+    "latlng": "-6.2845331,106.8909768,12z",
+    "lat": -6.2845331,
+    "lng": 106.8909768,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Jawa Barat",
+    "kab-kota": "Kota Bogor",
+    "latlng": "-6.5951918,106.7506926,13z",
+    "lat": -6.5951918,
+    "lng": 106.7506926,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Jawa Barat",
+    "kab-kota": "Kota Cimahi",
+    "latlng": "-6.8862574,107.5308219,15z",
+    "lat": -6.8862574,
+    "lng": 107.5308219,
+    "zoom": 15
+  },
+  {
+    "provinsi": "Jawa Barat",
+    "kab-kota": "Kota Cirebon",
+    "latlng": "-6.7428622,108.5334394,14z",
+    "lat": -6.7428622,
+    "lng": 108.5334394,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Jawa Barat",
+    "kab-kota": "Kota Depok",
+    "latlng": "-6.3878469,106.7765981,13z",
+    "lat": -6.3878469,
+    "lng": 106.7765981,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Jawa Barat",
+    "kab-kota": "Kota Sukabumi",
+    "latlng": "-6.9370135,106.8967104,14z",
+    "lat": -6.9370135,
+    "lng": 106.8967104,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Jawa Barat",
+    "kab-kota": "Kota Tasikmalaya",
+    "latlng": "-7.3599801,108.1915536,13z",
+    "lat": -7.3599801,
+    "lng": 108.1915536,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kabupaten Banjarnegara",
+    "latlng": "-7.3559269,109.4747668,11z",
+    "lat": -7.3559269,
+    "lng": 109.4747668,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kabupaten Banyumas",
+    "latlng": "-7.4549711,109.0037673,11z",
+    "lat": -7.4549711,
+    "lng": 109.0037673,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kabupaten Batang",
+    "latlng": "-7.0319943,109.7809844,12z",
+    "lat": -7.0319943,
+    "lng": 109.7809844,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kabupaten Blora",
+    "latlng": "-7.1105239,111.2034038,11z",
+    "lat": -7.1105239,
+    "lng": 111.2034038,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kabupaten Boyolali",
+    "latlng": "-7.3870613,110.4418333,11z",
+    "lat": -7.3870613,
+    "lng": 110.4418333,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kabupaten Brebes",
+    "latlng": "-7.045174,108.7694807,11z",
+    "lat": -7.045174,
+    "lng": 108.7694807,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kabupaten Cilacap",
+    "latlng": "-7.7065136,109.0118953,14z",
+    "lat": -7.7065136,
+    "lng": 109.0118953,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kabupaten Demak",
+    "latlng": "-6.9230206,110.4831478,11z",
+    "lat": -6.9230206,
+    "lng": 110.4831478,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kabupaten Grobogan",
+    "latlng": "-7.1286368,110.7293949,11z",
+    "lat": -7.1286368,
+    "lng": 110.7293949,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kabupaten Jepara",
+    "latlng": "-6.2609258,110.2401028,10z",
+    "lat": -6.2609258,
+    "lng": 110.2401028,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kabupaten Karanganyar",
+    "latlng": "-7.6195673,110.7866198,11z",
+    "lat": -7.6195673,
+    "lng": 110.7866198,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kabupaten Kebumen",
+    "latlng": "-7.6439098,109.4445193,11z",
+    "lat": -7.6439098,
+    "lng": 109.4445193,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kabupaten Kendal",
+    "latlng": "-7.0203777,109.9745948,11z",
+    "lat": -7.0203777,
+    "lng": 109.9745948,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kabupaten Klaten",
+    "latlng": "-7.6747932,110.5405123,12z",
+    "lat": -7.6747932,
+    "lng": 110.5405123,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kabupaten Kudus",
+    "latlng": "-6.797643,110.7855784,12z",
+    "lat": -6.797643,
+    "lng": 110.7855784,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kabupaten Magelang",
+    "latlng": "-7.5135583,110.1623699,12z",
+    "lat": -7.5135583,
+    "lng": 110.1623699,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kabupaten Pati",
+    "latlng": "-6.7040495,110.8722578,11z",
+    "lat": -6.7040495,
+    "lng": 110.8722578,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kabupaten Pekalongan",
+    "latlng": "-7.0418733,109.5586704,12z",
+    "lat": -7.0418733,
+    "lng": 109.5586704,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kabupaten Pemalang",
+    "latlng": "-7.0105133,109.2275858,11z",
+    "lat": -7.0105133,
+    "lng": 109.2275858,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kabupaten Purbalingga",
+    "latlng": "-7.3273326,109.3216944,12z",
+    "lat": -7.3273326,
+    "lng": 109.3216944,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kabupaten Purworejo",
+    "latlng": "-7.7080016,109.8875643,12z",
+    "lat": -7.7080016,
+    "lng": 109.8875643,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kabupaten Rembang",
+    "latlng": "-6.7698258,111.2975872,11z",
+    "lat": -6.7698258,
+    "lng": 111.2975872,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kabupaten Semarang",
+    "latlng": "-7.287785,110.3742089,12z",
+    "lat": -7.287785,
+    "lng": 110.3742089,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kabupaten Sragen",
+    "latlng": "-7.3922689,110.8797403,12z",
+    "lat": -7.3922689,
+    "lng": 110.8797403,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kabupaten Sukoharjo",
+    "latlng": "-7.6828397,110.7490339,12z",
+    "lat": -7.6828397,
+    "lng": 110.7490339,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kabupaten Tegal",
+    "latlng": "-7.0557966,108.9911108,11z",
+    "lat": -7.0557966,
+    "lng": 108.9911108,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kabupaten Temanggung",
+    "latlng": "-7.2398916,110.0491178,12z",
+    "lat": -7.2398916,
+    "lng": 110.0491178,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kabupaten Wonogiri",
+    "latlng": "-7.961877,110.8719318,11z",
+    "lat": -7.961877,
+    "lng": 110.8719318,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kabupaten Wonosobo",
+    "latlng": "-7.3997663,109.7408743,11z",
+    "lat": -7.3997663,
+    "lng": 109.7408743,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kota Magelang",
+    "latlng": "-7.4730534,110.1969249,14z",
+    "lat": -7.4730534,
+    "lng": 110.1969249,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kota Pekalongan",
+    "latlng": "-6.8959416,109.653904,14z",
+    "lat": -6.8959416,
+    "lng": 109.653904,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kota Salatiga",
+    "latlng": "-7.3262531,110.4764859,14z",
+    "lat": -7.3262531,
+    "lng": 110.4764859,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kota Semarang",
+    "latlng": "-7.024728,110.3758658,13z",
+    "lat": -7.024728,
+    "lng": 110.3758658,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kota Surakarta",
+    "latlng": "-7.5592085,110.798434,14z",
+    "lat": -7.5592085,
+    "lng": 110.798434,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Jawa Tengah",
+    "kab-kota": "Kota Tegal",
+    "latlng": "-6.869765,109.0977416,14z",
+    "lat": -6.869765,
+    "lng": 109.0977416,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Daerah Istimewa Yogyakarta",
+    "kab-kota": "Kabupaten Bantul",
+    "latlng": "-7.8981819,110.2803564,12z",
+    "lat": -7.8981819,
+    "lng": 110.2803564,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Daerah Istimewa Yogyakarta",
+    "kab-kota": "Kabupaten Gunungkidul",
+    "latlng": "-7.9931524,110.4171287,11z",
+    "lat": -7.9931524,
+    "lng": 110.4171287,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Daerah Istimewa Yogyakarta",
+    "kab-kota": "Kabupaten Kulon Progo",
+    "latlng": "-7.812486,110.0617389,12z",
+    "lat": -7.812486,
+    "lng": 110.0617389,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Daerah Istimewa Yogyakarta",
+    "kab-kota": "Kabupaten Sleman",
+    "latlng": "-7.6897101,110.2988749,12z",
+    "lat": -7.6897101,
+    "lng": 110.2988749,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Daerah Istimewa Yogyakarta",
+    "kab-kota": "Kota Yogyakarta",
+    "latlng": "-7.80325,110.3542454,14z",
+    "lat": -7.80325,
+    "lng": 110.3542454,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kabupaten Bangkalan",
+    "latlng": "-7.0461981,112.7450893,11z",
+    "lat": -7.0461981,
+    "lng": 112.7450893,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kabupaten Banyuwangi",
+    "latlng": "-8.3324775,113.8918729,10z",
+    "lat": -8.3324775,
+    "lng": 113.8918729,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kabupaten Blitar",
+    "latlng": "-8.1315728,112.0524609,11z",
+    "lat": -8.1315728,
+    "lng": 112.0524609,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kabupaten Bojonegoro",
+    "latlng": "-7.2278074,111.6298798,11z",
+    "lat": -7.2278074,
+    "lng": 111.6298798,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kabupaten Bondowoso",
+    "latlng": "-7.9452526,113.7712214,11z",
+    "lat": -7.9452526,
+    "lng": 113.7712214,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kabupaten Gresik",
+    "latlng": "-6.5608068,111.9121459,9z",
+    "lat": -6.5608068,
+    "lng": 111.9121459,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kabupaten Jember",
+    "latlng": "-8.2655993,113.4886583,11z",
+    "lat": -8.2655993,
+    "lng": 113.4886583,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kabupaten Jombang",
+    "latlng": "-7.561448,112.0944258,11z",
+    "lat": -7.561448,
+    "lng": 112.0944258,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kabupaten Kediri",
+    "latlng": "-7.8015312,111.9448134,11z",
+    "lat": -7.8015312,
+    "lng": 111.9448134,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kabupaten Lamongan",
+    "latlng": "-7.1230078,112.1476683,11z",
+    "lat": -7.1230078,
+    "lng": 112.1476683,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kabupaten Lumajang",
+    "latlng": "-8.1240094,112.9746913,11z",
+    "lat": -8.1240094,
+    "lng": 112.9746913,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kabupaten Madiun",
+    "latlng": "-7.6118107,111.5662773,12z",
+    "lat": -7.6118107,
+    "lng": 111.5662773,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kabupaten Magetan",
+    "latlng": "-7.6533437,111.2649919,12z",
+    "lat": -7.6533437,
+    "lng": 111.2649919,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kabupaten Malang",
+    "latlng": "-8.1125109,112.4579849,11z",
+    "lat": -8.1125109,
+    "lng": 112.4579849,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kabupaten Mojokerto",
+    "latlng": "-7.5410892,112.3368543,11z",
+    "lat": -7.5410892,
+    "lng": 112.3368543,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kabupaten Nganjuk",
+    "latlng": "-7.6151109,111.7824638,11z",
+    "lat": -7.6151109,
+    "lng": 111.7824638,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kabupaten Ngawi",
+    "latlng": "-7.4324606,111.2300233,11z",
+    "lat": -7.4324606,
+    "lng": 111.2300233,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kabupaten Pacitan",
+    "latlng": "-8.101874,110.9978453,11z",
+    "lat": -8.101874,
+    "lng": 110.9978453,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kabupaten Pamekasan",
+    "latlng": "-7.0711113,113.4211358,12z",
+    "lat": -7.0711113,
+    "lng": 113.4211358,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kabupaten Pasuruan",
+    "latlng": "-7.7505328,112.6725713,11z",
+    "lat": -7.7505328,
+    "lng": 112.6725713,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kabupaten Ponorogo",
+    "latlng": "-2.4327913,105.9690968,10z",
+    "lat": -2.4327913,
+    "lng": 105.9690968,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kabupaten Probolinggo",
+    "latlng": "-7.8519159,113.1208529,11z",
+    "lat": -7.8519159,
+    "lng": 113.1208529,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kabupaten Sampang",
+    "latlng": "-7.1007069,113.0970572,11z",
+    "lat": -7.1007069,
+    "lng": 113.0970572,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kabupaten Sidoarjo",
+    "latlng": "-7.4549008,112.5829353,12z",
+    "lat": -7.4549008,
+    "lng": 112.5829353,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kabupaten Situbondo",
+    "latlng": "-7.7984671,113.6902693,10z",
+    "lat": -7.7984671,
+    "lng": 113.6902693,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kabupaten Sumenep",
+    "latlng": "-6.1502558,114.2632627,9z",
+    "lat": -6.1502558,
+    "lng": 114.2632627,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kabupaten Trenggalek",
+    "latlng": "-8.1361288,111.4541365,11z",
+    "lat": -8.1361288,
+    "lng": 111.4541365,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kabupaten Tuban",
+    "latlng": "-6.8934517,112.0222674,14z",
+    "lat": -6.8934517,
+    "lng": 112.0222674,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kabupaten Tulungagung",
+    "latlng": "-8.1486643,111.8764269,12z",
+    "lat": -8.1486643,
+    "lng": 111.8764269,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kota Batu",
+    "latlng": "-7.8806982,112.5017045,14z",
+    "lat": -7.8806982,
+    "lng": 112.5017045,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kota Blitar",
+    "latlng": "-8.0948248,112.1446564,14z",
+    "lat": -8.0948248,
+    "lng": 112.1446564,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kota Kediri",
+    "latlng": "-7.8424201,111.9749882,13z",
+    "lat": -7.8424201,
+    "lng": 111.9749882,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kota Madiun",
+    "latlng": "-7.6300614,111.5074519,14z",
+    "lat": -7.6300614,
+    "lng": 111.5074519,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kota Malang",
+    "latlng": "-7.9786433,112.5905836,13z",
+    "lat": -7.9786433,
+    "lng": 112.5905836,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kota Mojokerto",
+    "latlng": "-7.4714885,112.4186314,14z",
+    "lat": -7.4714885,
+    "lng": 112.4186314,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kota Pasuruan",
+    "latlng": "-7.6514348,112.8844953,14z",
+    "lat": -7.6514348,
+    "lng": 112.8844953,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kota Probolinggo",
+    "latlng": "-7.7723115,113.1808762,14z",
+    "lat": -7.7723115,
+    "lng": 113.1808762,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Jawa Timur",
+    "kab-kota": "Kota Surabaya",
+    "latlng": "-7.2756176,112.6714844,13z",
+    "lat": -7.2756176,
+    "lng": 112.6714844,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Banten",
+    "kab-kota": "Kabupaten Lebak",
+    "latlng": "-6.6433268,106.0297858,11z",
+    "lat": -6.6433268,
+    "lng": 106.0297858,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Banten",
+    "kab-kota": "Kabupaten Pandeglang",
+    "latlng": "-6.6188379,105.3083112,10z",
+    "lat": -6.6188379,
+    "lng": 105.3083112,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Banten",
+    "kab-kota": "Kabupaten Serang",
+    "latlng": "-6.1065829,105.9529903,11z",
+    "lat": -6.1065829,
+    "lng": 105.9529903,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Banten",
+    "kab-kota": "Kabupaten Tangerang",
+    "latlng": "-6.1818782,106.4501874,12z",
+    "lat": -6.1818782,
+    "lng": 106.4501874,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Banten",
+    "kab-kota": "Kota Cilegon",
+    "latlng": "-5.9782879,105.9636482,13z",
+    "lat": -5.9782879,
+    "lng": 105.9636482,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Banten",
+    "kab-kota": "Kota Serang",
+    "latlng": "-6.1106532,106.1384204,14z",
+    "lat": -6.1106532,
+    "lng": 106.1384204,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Banten",
+    "kab-kota": "Kota Tangerang",
+    "latlng": "-6.176686,106.6088346,13z",
+    "lat": -6.176686,
+    "lng": 106.6088346,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Banten",
+    "kab-kota": "Kota Tangerang Selatan",
+    "latlng": "-6.2955014,106.6671131,13z",
+    "lat": -6.2955014,
+    "lng": 106.6671131,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Bali",
+    "kab-kota": "Kabupaten Badung",
+    "latlng": "-8.5455506,115.0027379,11z",
+    "lat": -8.5455506,
+    "lng": 115.0027379,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Bali",
+    "kab-kota": "Kabupaten Bangli",
+    "latlng": "-8.3339766,115.2625938,12z",
+    "lat": -8.3339766,
+    "lng": 115.2625938,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Bali",
+    "kab-kota": "Kabupaten Buleleng",
+    "latlng": "-8.2223363,114.6150189,10z",
+    "lat": -8.2223363,
+    "lng": 114.6150189,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Bali",
+    "kab-kota": "Kabupaten Gianyar",
+    "latlng": "-8.4819234,115.2158514,12z",
+    "lat": -8.4819234,
+    "lng": 115.2158514,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Bali",
+    "kab-kota": "Kabupaten Jembrana",
+    "latlng": "-8.3131445,114.5180529,11z",
+    "lat": -8.3131445,
+    "lng": 114.5180529,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Bali",
+    "kab-kota": "Kabupaten Karangasem",
+    "latlng": "-8.3585914,115.4683595,12z",
+    "lat": -8.3585914,
+    "lng": 115.4683595,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Bali",
+    "kab-kota": "Kabupaten Klungkung",
+    "latlng": "-8.6374117,115.4095655,12z",
+    "lat": -8.6374117,
+    "lng": 115.4095655,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Bali",
+    "kab-kota": "Kabupaten Tabanan",
+    "latlng": "-8.4392199,114.9836514,12z",
+    "lat": -8.4392199,
+    "lng": 114.9836514,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Bali",
+    "kab-kota": "Kota Denpasar",
+    "latlng": "-8.6726811,115.1830739,13z",
+    "lat": -8.6726811,
+    "lng": 115.1830739,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Nusa Tenggara Barat",
+    "kab-kota": "Kabupaten Bima",
+    "latlng": "-8.4832275,118.2210865,10z",
+    "lat": -8.4832275,
+    "lng": 118.2210865,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Nusa Tenggara Barat",
+    "kab-kota": "Kabupaten Dompu",
+    "latlng": "-8.4936779,117.9518809,11z",
+    "lat": -8.4936779,
+    "lng": 117.9518809,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Nusa Tenggara Barat",
+    "kab-kota": "Kabupaten Lombok Barat",
+    "latlng": "-8.6663253,115.9152034,11z",
+    "lat": -8.6663253,
+    "lng": 115.9152034,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Nusa Tenggara Barat",
+    "kab-kota": "Kabupaten Lombok Tengah",
+    "latlng": "-8.6822631,116.1042639,11z",
+    "lat": -8.6822631,
+    "lng": 116.1042639,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Nusa Tenggara Barat",
+    "kab-kota": "Kabupaten Lombok Timur",
+    "latlng": "-8.5915639,116.4011344,11z",
+    "lat": -8.5915639,
+    "lng": 116.4011344,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Nusa Tenggara Barat",
+    "kab-kota": "Kabupaten Lombok Utara",
+    "latlng": "-8.345396,116.0962138,11z",
+    "lat": -8.345396,
+    "lng": 116.0962138,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Nusa Tenggara Barat",
+    "kab-kota": "Kabupaten Sumbawa",
+    "latlng": "-8.6166065,117.2558415,10z",
+    "lat": -8.6166065,
+    "lng": 117.2558415,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Nusa Tenggara Barat",
+    "kab-kota": "Kabupaten Sumbawa Barat",
+    "latlng": "-8.8001902,116.718409,11z",
+    "lat": -8.8001902,
+    "lng": 116.718409,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Nusa Tenggara Barat",
+    "kab-kota": "Kota Bima",
+    "latlng": "-8.4628885,118.7241161,14z",
+    "lat": -8.4628885,
+    "lng": 118.7241161,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Nusa Tenggara Barat",
+    "kab-kota": "Kota Mataram",
+    "latlng": "-8.5887454,116.09963,14z",
+    "lat": -8.5887454,
+    "lng": 116.09963,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Nusa Tenggara Timur",
+    "kab-kota": "Kabupaten Alor",
+    "latlng": "-8.3332691,124.1455419,10z",
+    "lat": -8.3332691,
+    "lng": 124.1455419,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Nusa Tenggara Timur",
+    "kab-kota": "Kabupaten Belu",
+    "latlng": "-9.1758281,124.8276798,11z",
+    "lat": -9.1758281,
+    "lng": 124.8276798,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Nusa Tenggara Timur",
+    "kab-kota": "Kabupaten Ende",
+    "latlng": "-8.6734882,121.5454799,11z",
+    "lat": -8.6734882,
+    "lng": 121.5454799,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Nusa Tenggara Timur",
+    "kab-kota": "Kabupaten Flores Timur",
+    "latlng": "-8.3502809,122.8292214,11z",
+    "lat": -8.3502809,
+    "lng": 122.8292214,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Nusa Tenggara Timur",
+    "kab-kota": "Kabupaten Kupang",
+    "latlng": "-9.8123002,123.4190632,10z",
+    "lat": -9.8123002,
+    "lng": 123.4190632,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Nusa Tenggara Timur",
+    "kab-kota": "Kabupaten Lembata",
+    "latlng": "-8.3780047,123.4001564,11z",
+    "lat": -8.3780047,
+    "lng": 123.4001564,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Nusa Tenggara Timur",
+    "kab-kota": "Kabupaten Malaka",
+    "latlng": "-9.5465832,124.7008193,11z",
+    "lat": -9.5465832,
+    "lng": 124.7008193,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Nusa Tenggara Timur",
+    "kab-kota": "Kabupaten Manggarai",
+    "latlng": "-8.5782901,120.2224879,11z",
+    "lat": -8.5782901,
+    "lng": 120.2224879,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Nusa Tenggara Timur",
+    "kab-kota": "Kabupaten Manggarai Barat",
+    "latlng": "-8.5740242,119.5417199,10z",
+    "lat": -8.5740242,
+    "lng": 119.5417199,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Nusa Tenggara Timur",
+    "kab-kota": "Kabupaten Manggarai Timur",
+    "latlng": "-8.574016,120.4514869,11z",
+    "lat": -8.574016,
+    "lng": 120.4514869,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Nusa Tenggara Timur",
+    "kab-kota": "Kabupaten Nagekeo",
+    "latlng": "-8.6744437,121.1369964,11z",
+    "lat": -8.6744437,
+    "lng": 121.1369964,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Nusa Tenggara Timur",
+    "kab-kota": "Kabupaten Ngada",
+    "latlng": "-8.6500518,120.8325143,11z",
+    "lat": -8.6500518,
+    "lng": 120.8325143,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Nusa Tenggara Timur",
+    "kab-kota": "Kabupaten Rote Ndao",
+    "latlng": "-10.7192621,122.877459,11z",
+    "lat": -10.7192621,
+    "lng": 122.877459,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Nusa Tenggara Timur",
+    "kab-kota": "Kabupaten Sabu Raijua",
+    "latlng": "-10.6240425,121.4739754,11z",
+    "lat": -10.6240425,
+    "lng": 121.4739754,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Nusa Tenggara Timur",
+    "kab-kota": "Kabupaten Sikka",
+    "latlng": "-8.456324,121.8515544,10z",
+    "lat": -8.456324,
+    "lng": 121.8515544,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Nusa Tenggara Timur",
+    "kab-kota": "Kabupaten Sumba Barat",
+    "latlng": "-9.5853101,119.1784924,11z",
+    "lat": -9.5853101,
+    "lng": 119.1784924,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Nusa Tenggara Timur",
+    "kab-kota": "Kabupaten Sumba Barat Daya",
+    "latlng": "-9.5439702,119.0055184,11z",
+    "lat": -9.5439702,
+    "lng": 119.0055184,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Nusa Tenggara Timur",
+    "kab-kota": "Kabupaten Sumba Tengah",
+    "latlng": "-9.5937635,119.5061708,11z",
+    "lat": -9.5937635,
+    "lng": 119.5061708,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Nusa Tenggara Timur",
+    "kab-kota": "Kabupaten Sumba Timur",
+    "latlng": "-9.8051789,119.9304791,10z",
+    "lat": -9.8051789,
+    "lng": 119.9304791,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Nusa Tenggara Timur",
+    "kab-kota": "Kabupaten Timor Tengah Selatan",
+    "latlng": "-9.8230326,124.2726318,11z",
+    "lat": -9.8230326,
+    "lng": 124.2726318,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Nusa Tenggara Timur",
+    "kab-kota": "Kabupaten Timor Tengah Utara",
+    "latlng": "-9.3405151,124.3088769,11z",
+    "lat": -9.3405151,
+    "lng": 124.3088769,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Nusa Tenggara Timur",
+    "kab-kota": "Kota Kupang",
+    "latlng": "-10.1749484,123.573519,13z",
+    "lat": -10.1749484,
+    "lng": 123.573519,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Kalimantan Barat",
+    "kab-kota": "Kabupaten Bengkayang",
+    "latlng": "1.0338928,109.1573694,10z",
+    "lat": 1.0338928,
+    "lng": 109.1573694,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Kalimantan Barat",
+    "kab-kota": "Kabupaten Kapuas Hulu",
+    "latlng": "0.8345187,112.2063283,9z",
+    "lat": 0.8345187,
+    "lng": 112.2063283,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Kalimantan Barat",
+    "kab-kota": "Kabupaten Kayong Utara",
+    "latlng": "-1.247575,108.9159308,9z",
+    "lat": -1.247575,
+    "lng": 108.9159308,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Kalimantan Barat",
+    "kab-kota": "Kabupaten Ketapang",
+    "latlng": "-1.6822637,109.9252934,9z",
+    "lat": -1.6822637,
+    "lng": 109.9252934,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Kalimantan Barat",
+    "kab-kota": "Kabupaten Kubu Raya",
+    "latlng": "-0.3785142,109.1809334,10z",
+    "lat": -0.3785142,
+    "lng": 109.1809334,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Kalimantan Barat",
+    "kab-kota": "Kabupaten Landak",
+    "latlng": "0.5108706,109.3750539,10z",
+    "lat": 0.5108706,
+    "lng": 109.3750539,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Kalimantan Barat",
+    "kab-kota": "Kabupaten Melawi",
+    "latlng": "-0.7297279,111.4575619,10z",
+    "lat": -0.7297279,
+    "lng": 111.4575619,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Kalimantan Barat",
+    "kab-kota": "Kabupaten Mempawah",
+    "latlng": "0.3436999,108.3725694,10z",
+    "lat": 0.3436999,
+    "lng": 108.3725694,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Kalimantan Barat",
+    "kab-kota": "Kabupaten Sambas",
+    "latlng": "1.4877089,108.9994974,10z",
+    "lat": 1.4877089,
+    "lng": 108.9994974,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Kalimantan Barat",
+    "kab-kota": "Kabupaten Sanggau",
+    "latlng": "0.3510008,109.7849193,9z",
+    "lat": 0.3510008,
+    "lng": 109.7849193,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Kalimantan Barat",
+    "kab-kota": "Kabupaten Sekadau",
+    "latlng": "0.0537337,110.5955784,10z",
+    "lat": 0.0537337,
+    "lng": 110.5955784,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Kalimantan Barat",
+    "kab-kota": "Kabupaten Sintang",
+    "latlng": "0.1809465,111.4524818,9z",
+    "lat": 0.1809465,
+    "lng": 111.4524818,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Kalimantan Barat",
+    "kab-kota": "Kota Pontianak",
+    "latlng": "-0.0353948,109.2903511,13z",
+    "lat": -0.0353948,
+    "lng": 109.2903511,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Kalimantan Barat",
+    "kab-kota": "Kota Singkawang",
+    "latlng": "0.8835102,108.8799955,12z",
+    "lat": 0.8835102,
+    "lng": 108.8799955,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Kalimantan Tengah",
+    "kab-kota": "Kabupaten Barito Selatan",
+    "latlng": "-1.9639955,114.6852804,10z",
+    "lat": -1.9639955,
+    "lng": 114.6852804,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Kalimantan Tengah",
+    "kab-kota": "Kabupaten Barito Timur",
+    "latlng": "-2.0148192,115.0155542,11z",
+    "lat": -2.0148192,
+    "lng": 115.0155542,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Kalimantan Tengah",
+    "kab-kota": "Kabupaten Barito Utara",
+    "latlng": "-0.724467,114.8224564,10z",
+    "lat": -0.724467,
+    "lng": 114.8224564,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Kalimantan Tengah",
+    "kab-kota": "Kabupaten Gunung Mas",
+    "latlng": "-0.9869026,113.1834259,10z",
+    "lat": -0.9869026,
+    "lng": 113.1834259,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Kalimantan Tengah",
+    "kab-kota": "Kabupaten Kapuas",
+    "latlng": "-1.9162957,113.5625079,9z",
+    "lat": -1.9162957,
+    "lng": 113.5625079,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Kalimantan Tengah",
+    "kab-kota": "Kabupaten Katingan",
+    "latlng": "-1.9548321,112.2738024,9z",
+    "lat": -1.9548321,
+    "lng": 112.2738024,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Kalimantan Tengah",
+    "kab-kota": "Kabupaten Kotawaringin Barat",
+    "latlng": "-2.556069,111.0182895,9z",
+    "lat": -2.556069,
+    "lng": 111.0182895,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Kalimantan Tengah",
+    "kab-kota": "Kabupaten Kotawaringin Timur",
+    "latlng": "-2.2301615,112.0182704,9z",
+    "lat": -2.2301615,
+    "lng": 112.0182704,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Kalimantan Tengah",
+    "kab-kota": "Kabupaten Lamandau",
+    "latlng": "-1.8072821,111.0094414,10z",
+    "lat": -1.8072821,
+    "lng": 111.0094414,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Kalimantan Tengah",
+    "kab-kota": "Kabupaten Murung Raya",
+    "latlng": "-0.0366846,113.5122002,9z",
+    "lat": -0.0366846,
+    "lng": 113.5122002,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Kalimantan Tengah",
+    "kab-kota": "Kabupaten Pulang Pisau",
+    "latlng": "-2.5041449,113.295543,9z",
+    "lat": -2.5041449,
+    "lng": 113.295543,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Kalimantan Tengah",
+    "kab-kota": "Kabupaten Seruyan",
+    "latlng": "-2.1306395,111.4622159,9z",
+    "lat": -2.1306395,
+    "lng": 111.4622159,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Kalimantan Tengah",
+    "kab-kota": "Kabupaten Sukamara",
+    "latlng": "-2.5609342,110.7372794,10z",
+    "lat": -2.5609342,
+    "lng": 110.7372794,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Kalimantan Tengah",
+    "kab-kota": "Kota Palangkaraya",
+    "latlng": "-2.2097022,113.8810656,14z",
+    "lat": -2.2097022,
+    "lng": 113.8810656,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Kalimantan Selatan",
+    "kab-kota": "Kabupaten Balangan",
+    "latlng": "-2.289306,115.4192707,11z",
+    "lat": -2.289306,
+    "lng": 115.4192707,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Kalimantan Selatan",
+    "kab-kota": "Kabupaten Banjar",
+    "latlng": "-3.2765194,114.725278,10z",
+    "lat": -3.2765194,
+    "lng": 114.725278,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Kalimantan Selatan",
+    "kab-kota": "Kabupaten Barito Kuala",
+    "latlng": "-3.0359138,114.2741114,10z",
+    "lat": -3.0359138,
+    "lng": 114.2741114,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Kalimantan Selatan",
+    "kab-kota": "Kabupaten Hulu Sungai Selatan",
+    "latlng": "-2.7182302,115.0681152,11z",
+    "lat": -2.7182302,
+    "lng": 115.0681152,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Kalimantan Selatan",
+    "kab-kota": "Kabupaten Hulu Sungai Tengah",
+    "latlng": "-2.6115832,115.3602978,11z",
+    "lat": -2.6115832,
+    "lng": 115.3602978,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Kalimantan Selatan",
+    "kab-kota": "Kabupaten Hulu Sungai Utara",
+    "latlng": "-2.4250219,114.9674022,11z",
+    "lat": -2.4250219,
+    "lng": 114.9674022,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Kalimantan Selatan",
+    "kab-kota": "Kabupaten Kotabaru",
+    "latlng": "-3.5283624,115.3704897,9z",
+    "lat": -3.5283624,
+    "lng": 115.3704897,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Kalimantan Selatan",
+    "kab-kota": "Kabupaten Tabalong",
+    "latlng": "-1.8371726,115.1110204,10z",
+    "lat": -1.8371726,
+    "lng": 115.1110204,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Kalimantan Selatan",
+    "kab-kota": "Kabupaten Tanah Bumbu",
+    "latlng": "-3.4456273,115.5027948,11z",
+    "lat": -3.4456273,
+    "lng": 115.5027948,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Kalimantan Selatan",
+    "kab-kota": "Kabupaten Tanah Laut",
+    "latlng": "-3.8433626,114.6126024,10z",
+    "lat": -3.8433626,
+    "lng": 114.6126024,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Kalimantan Selatan",
+    "kab-kota": "Kabupaten Tapin",
+    "latlng": "-2.8668806,114.9900972,11z",
+    "lat": -2.8668806,
+    "lng": 114.9900972,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Kalimantan Selatan",
+    "kab-kota": "Kota Banjarbaru",
+    "latlng": "-3.4593209,114.7590252,13z",
+    "lat": -3.4593209,
+    "lng": 114.7590252,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Kalimantan Selatan",
+    "kab-kota": "Kota Banjarmasin",
+    "latlng": "-3.3172212,114.5736131,14z",
+    "lat": -3.3172212,
+    "lng": 114.5736131,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Kalimantan Timur",
+    "kab-kota": "Kabupaten Berau",
+    "latlng": "1.805087,116.9408284,9z",
+    "lat": 1.805087,
+    "lng": 116.9408284,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Kalimantan Timur",
+    "kab-kota": "Kabupaten Kutai Barat",
+    "latlng": "-0.4712353,115.5447583,10z",
+    "lat": -0.4712353,
+    "lng": 115.5447583,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Kalimantan Timur",
+    "kab-kota": "Kabupaten Kutai Kartanegara",
+    "latlng": "0.196609,115.9123243,9z",
+    "lat": 0.196609,
+    "lng": 115.9123243,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Kalimantan Timur",
+    "kab-kota": "Kabupaten Kutai Timur",
+    "latlng": "0.9305248,116.8393433,9z",
+    "lat": 0.9305248,
+    "lng": 116.8393433,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Kalimantan Timur",
+    "kab-kota": "Kabupaten Mahakam Ulu",
+    "latlng": "0.664585,114.1692103,9z",
+    "lat": 0.664585,
+    "lng": 114.1692103,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Kalimantan Timur",
+    "kab-kota": "Kabupaten Paser",
+    "latlng": "-1.6897451,115.7828668,10z",
+    "lat": -1.6897451,
+    "lng": 115.7828668,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Kalimantan Timur",
+    "kab-kota": "Kabupaten Penajam Paser Utara",
+    "latlng": "-1.2001706,116.4804588,11z",
+    "lat": -1.2001706,
+    "lng": 116.4804588,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Kalimantan Timur",
+    "kab-kota": "Kota Balikpapan",
+    "latlng": "-1.1746018,116.7593479,12z",
+    "lat": -1.1746018,
+    "lng": 116.7593479,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Kalimantan Timur",
+    "kab-kota": "Kota Bontang",
+    "latlng": "0.1367565,117.4642793,13z",
+    "lat": 0.1367565,
+    "lng": 117.4642793,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Kalimantan Timur",
+    "kab-kota": "Kota Samarinda",
+    "latlng": "-0.5014663,117.1117327,14z",
+    "lat": -0.5014663,
+    "lng": 117.1117327,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Kalimantan Utara",
+    "kab-kota": "Kabupaten Bulungan",
+    "latlng": "2.8445359,116.3284967,9z",
+    "lat": 2.8445359,
+    "lng": 116.3284967,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Kalimantan Utara",
+    "kab-kota": "Kabupaten Malinau",
+    "latlng": "2.5821322,115.0266024,9z",
+    "lat": 2.5821322,
+    "lng": 115.0266024,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Kalimantan Utara",
+    "kab-kota": "Kabupaten Nunukan",
+    "latlng": "3.9049737,116.0851178,9z",
+    "lat": 3.9049737,
+    "lng": 116.0851178,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Kalimantan Utara",
+    "kab-kota": "Kabupaten Tana Tidung",
+    "latlng": "3.5492509,116.9324034,10z",
+    "lat": 3.5492509,
+    "lng": 116.9324034,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Kalimantan Utara",
+    "kab-kota": "Kota Tarakan",
+    "latlng": "3.3551572,117.5365105,13z",
+    "lat": 3.3551572,
+    "lng": 117.5365105,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Sulawesi Utara",
+    "kab-kota": "Kabupaten Bolaang Mongondow",
+    "latlng": "0.7211065,123.8701391,11z",
+    "lat": 0.7211065,
+    "lng": 123.8701391,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sulawesi Utara",
+    "kab-kota": "Kabupaten Bolaang Mongondow Selatan",
+    "latlng": "0.4544529,123.6496284,10z",
+    "lat": 0.4544529,
+    "lng": 123.6496284,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sulawesi Utara",
+    "kab-kota": "Kabupaten Bolaang Mongondow Timur",
+    "latlng": "0.7115331,124.3522362,11z",
+    "lat": 0.7115331,
+    "lng": 124.3522362,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sulawesi Utara",
+    "kab-kota": "Kabupaten Bolaang Mongondow Utara",
+    "latlng": "0.7605899,123.2609688,11z",
+    "lat": 0.7605899,
+    "lng": 123.2609688,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sulawesi Utara",
+    "kab-kota": "Kabupaten Kepulauan Sangihe",
+    "latlng": "3.9029723,124.8675309,9z",
+    "lat": 3.9029723,
+    "lng": 124.8675309,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Sulawesi Utara",
+    "kab-kota": "Kabupaten Kepulauan Siau Tagulandang Biaro",
+    "latlng": "2.4406939,125.1646402,11z",
+    "lat": 2.4406939,
+    "lng": 125.1646402,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sulawesi Utara",
+    "kab-kota": "Kabupaten Kepulauan Talaud",
+    "latlng": "4.6548684,126.3550917,9z",
+    "lat": 4.6548684,
+    "lng": 126.3550917,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Sulawesi Utara",
+    "kab-kota": "Kabupaten Minahasa",
+    "latlng": "1.2411664,124.6489442,11z",
+    "lat": 1.2411664,
+    "lng": 124.6489442,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sulawesi Utara",
+    "kab-kota": "Kabupaten Minahasa Selatan",
+    "latlng": "1.0709716,124.3635237,11z",
+    "lat": 1.0709716,
+    "lng": 124.3635237,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sulawesi Utara",
+    "kab-kota": "Kabupaten Minahasa Tenggara",
+    "latlng": "0.9825079,124.6679989,12z",
+    "lat": 0.9825079,
+    "lng": 124.6679989,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Sulawesi Utara",
+    "kab-kota": "Kabupaten Minahasa Utara",
+    "latlng": "1.578383,124.7936391,11z",
+    "lat": 1.578383,
+    "lng": 124.7936391,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sulawesi Utara",
+    "kab-kota": "Kota Bitung",
+    "latlng": "1.4661215,125.0997298,12z",
+    "lat": 1.4661215,
+    "lng": 125.0997298,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Sulawesi Utara",
+    "kab-kota": "Kota Kotamobagu",
+    "latlng": "0.7350466,124.2963904,14z",
+    "lat": 0.7350466,
+    "lng": 124.2963904,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Sulawesi Utara",
+    "kab-kota": "Kota Manado",
+    "latlng": "1.540814,124.7020864,12z",
+    "lat": 1.540814,
+    "lng": 124.7020864,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Sulawesi Utara",
+    "kab-kota": "Kota Tomohon",
+    "latlng": "1.3305562,124.8157455,14z",
+    "lat": 1.3305562,
+    "lng": 124.8157455,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Sulawesi Tengah",
+    "kab-kota": "Kabupaten Banggai",
+    "latlng": "-1.1160724,122.3213729,10z",
+    "lat": -1.1160724,
+    "lng": 122.3213729,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sulawesi Tengah",
+    "kab-kota": "Kabupaten Banggai Kepulauan",
+    "latlng": "-1.3997732,122.9826983,11z",
+    "lat": -1.3997732,
+    "lng": 122.9826983,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sulawesi Tengah",
+    "kab-kota": "Kabupaten Banggai Laut",
+    "latlng": "-1.8485094,123.2623939,10z",
+    "lat": -1.8485094,
+    "lng": 123.2623939,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sulawesi Tengah",
+    "kab-kota": "Kabupaten Buol",
+    "latlng": "0.998369,121.2042469,10z",
+    "lat": 0.998369,
+    "lng": 121.2042469,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sulawesi Tengah",
+    "kab-kota": "Kabupaten Donggala",
+    "latlng": "-0.3510503,119.1656923,9z",
+    "lat": -0.3510503,
+    "lng": 119.1656923,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Sulawesi Tengah",
+    "kab-kota": "Kabupaten Morowali",
+    "latlng": "-2.8947066,121.6508157,9z",
+    "lat": -2.8947066,
+    "lng": 121.6508157,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Sulawesi Tengah",
+    "kab-kota": "Kabupaten Morowali Utara",
+    "latlng": "-1.846686,121.1173089,10z",
+    "lat": -1.846686,
+    "lng": 121.1173089,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sulawesi Tengah",
+    "kab-kota": "Kabupaten Parigi Moutong",
+    "latlng": "-0.2402421,119.9663638,9z",
+    "lat": -0.2402421,
+    "lng": 119.9663638,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Sulawesi Tengah",
+    "kab-kota": "Kabupaten Poso",
+    "latlng": "-1.6736963,120.2000954,10z",
+    "lat": -1.6736963,
+    "lng": 120.2000954,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sulawesi Tengah",
+    "kab-kota": "Kabupaten Sigi",
+    "latlng": "-1.4615663,119.6731218,10z",
+    "lat": -1.4615663,
+    "lng": 119.6731218,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sulawesi Tengah",
+    "kab-kota": "Kabupaten Tojo Una-Una",
+    "latlng": "-0.8732036,121.3128488,10z",
+    "lat": -0.8732036,
+    "lng": 121.3128488,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sulawesi Tengah",
+    "kab-kota": "Kabupaten Tolitoli",
+    "latlng": "0.9811343,120.3273139,10z",
+    "lat": 0.9811343,
+    "lng": 120.3273139,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sulawesi Tengah",
+    "kab-kota": "Kota Palu",
+    "latlng": "-0.7895612,119.8168738,12z",
+    "lat": -0.7895612,
+    "lng": 119.8168738,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Sulawesi Selatan",
+    "kab-kota": "Kabupaten Bantaeng",
+    "latlng": "-5.4715079,119.8953159,12z",
+    "lat": -5.4715079,
+    "lng": 119.8953159,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Sulawesi Selatan",
+    "kab-kota": "Kabupaten Barru",
+    "latlng": "-4.4336977,119.5319018,11z",
+    "lat": -4.4336977,
+    "lng": 119.5319018,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sulawesi Selatan",
+    "kab-kota": "Kabupaten Bone",
+    "latlng": "-4.6799513,119.759385,10z",
+    "lat": -4.6799513,
+    "lng": 119.759385,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sulawesi Selatan",
+    "kab-kota": "Kabupaten Bulukumba",
+    "latlng": "-5.4841014,120.0524693,11z",
+    "lat": -5.4841014,
+    "lng": 120.0524693,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sulawesi Selatan",
+    "kab-kota": "Kabupaten Enrekang",
+    "latlng": "-3.5320784,119.7274693,11z",
+    "lat": -3.5320784,
+    "lng": 119.7274693,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sulawesi Selatan",
+    "kab-kota": "Kabupaten Gowa",
+    "latlng": "-5.330097,119.5330908,11z",
+    "lat": -5.330097,
+    "lng": 119.5330908,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sulawesi Selatan",
+    "kab-kota": "Kabupaten Jeneponto",
+    "latlng": "-5.5446782,119.5472152,11z",
+    "lat": -5.5446782,
+    "lng": 119.5472152,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sulawesi Selatan",
+    "kab-kota": "Kabupaten Kepulauan Selayar",
+    "latlng": "-6.626716,120.3955054,9z",
+    "lat": -6.626716,
+    "lng": 120.3955054,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Sulawesi Selatan",
+    "kab-kota": "Kabupaten Luwu",
+    "latlng": "-3.1665862,119.8164134,10z",
+    "lat": -3.1665862,
+    "lng": 119.8164134,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sulawesi Selatan",
+    "kab-kota": "Kabupaten Luwu Timur",
+    "latlng": "-2.5320531,120.8013779,10z",
+    "lat": -2.5320531,
+    "lng": 120.8013779,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sulawesi Selatan",
+    "kab-kota": "Kabupaten Luwu Utara",
+    "latlng": "-2.4065317,119.8125083,10z",
+    "lat": -2.4065317,
+    "lng": 119.8125083,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sulawesi Selatan",
+    "kab-kota": "Kabupaten Maros",
+    "latlng": "-4.9651246,119.5548348,11z",
+    "lat": -4.9651246,
+    "lng": 119.5548348,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sulawesi Selatan",
+    "kab-kota": "Kabupaten Pangkajene dan Kepulauan",
+    "latlng": "-6.1237426,117.7650912,9z",
+    "lat": -6.1237426,
+    "lng": 117.7650912,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Sulawesi Selatan",
+    "kab-kota": "Kabupaten Pinrang",
+    "latlng": "-3.6487744,119.4428783,11z",
+    "lat": -3.6487744,
+    "lng": 119.4428783,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sulawesi Selatan",
+    "kab-kota": "Kabupaten Sidenreng Rappang",
+    "latlng": "-3.8080778,119.8330861,11z",
+    "lat": -3.8080778,
+    "lng": 119.8330861,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sulawesi Selatan",
+    "kab-kota": "Kabupaten Sinjai",
+    "latlng": "-5.197242,120.0136128,11z",
+    "lat": -5.197242,
+    "lng": 120.0136128,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sulawesi Selatan",
+    "kab-kota": "Kabupaten Soppeng",
+    "latlng": "-4.3185707,119.7363808,11z",
+    "lat": -4.3185707,
+    "lng": 119.7363808,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sulawesi Selatan",
+    "kab-kota": "Kabupaten Takalar",
+    "latlng": "-5.4111737,119.2536538,11z",
+    "lat": -5.4111737,
+    "lng": 119.2536538,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sulawesi Selatan",
+    "kab-kota": "Kabupaten Tana Toraja",
+    "latlng": "-3.0568894,119.5423262,11z",
+    "lat": -3.0568894,
+    "lng": 119.5423262,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sulawesi Selatan",
+    "kab-kota": "Kabupaten Toraja Utara",
+    "latlng": "-2.8990695,119.7155397,11z",
+    "lat": -2.8990695,
+    "lng": 119.7155397,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sulawesi Selatan",
+    "kab-kota": "Kabupaten Wajo",
+    "latlng": "-3.9682196,119.9990072,11z",
+    "lat": -3.9682196,
+    "lng": 119.9990072,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sulawesi Selatan",
+    "kab-kota": "Kota Makassar",
+    "latlng": "-5.1114842,119.3202274,12z",
+    "lat": -5.1114842,
+    "lng": 119.3202274,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Sulawesi Selatan",
+    "kab-kota": "Kota Palopo",
+    "latlng": "-3.014981,120.1793846,14z",
+    "lat": -3.014981,
+    "lng": 120.1793846,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Sulawesi Selatan",
+    "kab-kota": "Kota Parepare",
+    "latlng": "-4.012751,119.6175481,14z",
+    "lat": -4.012751,
+    "lng": 119.6175481,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Sulawesi Tenggara",
+    "kab-kota": "Kabupaten Bombana",
+    "latlng": "-4.9240612,121.4781469,10z",
+    "lat": -4.9240612,
+    "lng": 121.4781469,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sulawesi Tenggara",
+    "kab-kota": "Kabupaten Buton",
+    "latlng": "-5.6433068,122.2501015,10z",
+    "lat": -5.6433068,
+    "lng": 122.2501015,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sulawesi Tenggara",
+    "kab-kota": "Kabupaten Buton Selatan",
+    "latlng": "-5.6439902,122.2501011,10z",
+    "lat": -5.6439902,
+    "lng": 122.2501011,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sulawesi Tenggara",
+    "kab-kota": "Kabupaten Buton Tengah",
+    "latlng": "-5.3322882,122.1257889,11z",
+    "lat": -5.3322882,
+    "lng": 122.1257889,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sulawesi Tenggara",
+    "kab-kota": "Kabupaten Buton Utara",
+    "latlng": "-4.7571877,122.8559639,11z",
+    "lat": -4.7571877,
+    "lng": 122.8559639,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sulawesi Tenggara",
+    "kab-kota": "Kabupaten Kolaka",
+    "latlng": "-4.1014484,121.1254799,10z",
+    "lat": -4.1014484,
+    "lng": 121.1254799,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sulawesi Tenggara",
+    "kab-kota": "Kabupaten Kolaka Timur",
+    "latlng": "-3.8196773,121.2376443,10z",
+    "lat": -3.8196773,
+    "lng": 121.2376443,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sulawesi Tenggara",
+    "kab-kota": "Kabupaten Kolaka Utara",
+    "latlng": "-3.262373,120.8309731,10z",
+    "lat": -3.262373,
+    "lng": 120.8309731,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sulawesi Tenggara",
+    "kab-kota": "Kabupaten Konawe",
+    "latlng": "-3.5121671,121.7125297,10z",
+    "lat": -3.5121671,
+    "lng": 121.7125297,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sulawesi Tenggara",
+    "kab-kota": "Kabupaten Konawe Kepulauan",
+    "latlng": "-4.119177,123.0148944,12z",
+    "lat": -4.119177,
+    "lng": 123.0148944,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Sulawesi Tenggara",
+    "kab-kota": "Kabupaten Konawe Selatan",
+    "latlng": "-4.2508376,122.2445629,11z",
+    "lat": -4.2508376,
+    "lng": 122.2445629,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sulawesi Tenggara",
+    "kab-kota": "Kabupaten Konawe Utara",
+    "latlng": "-3.4188625,121.9741907,10z",
+    "lat": -3.4188625,
+    "lng": 121.9741907,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sulawesi Tenggara",
+    "kab-kota": "Kabupaten Muna",
+    "latlng": "-4.8718368,122.3835884,11z",
+    "lat": -4.8718368,
+    "lng": 122.3835884,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sulawesi Tenggara",
+    "kab-kota": "Kabupaten Muna Barat",
+    "latlng": "-4.8314491,122.4565472,14z",
+    "lat": -4.8314491,
+    "lng": 122.4565472,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Sulawesi Tenggara",
+    "kab-kota": "Kabupaten Wakatobi",
+    "latlng": "-5.66969,123.4643122,10z",
+    "lat": -5.66969,
+    "lng": 123.4643122,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sulawesi Tenggara",
+    "kab-kota": "Kota Baubau",
+    "latlng": "-5.5070672,122.5917511,16z",
+    "lat": -5.5070672,
+    "lng": 122.5917511,
+    "zoom": 16
+  },
+  {
+    "provinsi": "Sulawesi Tenggara",
+    "kab-kota": "Kota Kendari",
+    "latlng": "-3.984963,122.4958455,13z",
+    "lat": -3.984963,
+    "lng": 122.4958455,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Gorontalo",
+    "kab-kota": "Kabupaten Boalemo",
+    "latlng": "0.6667741,122.2033327,11z",
+    "lat": 0.6667741,
+    "lng": 122.2033327,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Gorontalo",
+    "kab-kota": "Kabupaten Bone Bolango",
+    "latlng": "0.5565751,123.1296313,11z",
+    "lat": 0.5565751,
+    "lng": 123.1296313,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Gorontalo",
+    "kab-kota": "Kabupaten Gorontalo",
+    "latlng": "0.6992594,122.4978543,11z",
+    "lat": 0.6992594,
+    "lng": 122.4978543,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Gorontalo",
+    "kab-kota": "Kabupaten Gorontalo Utara",
+    "latlng": "0.8653873,122.4636537,11z",
+    "lat": 0.8653873,
+    "lng": 122.4636537,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Gorontalo",
+    "kab-kota": "Kabupaten Pohuwato",
+    "latlng": "0.6669281,121.4830862,11z",
+    "lat": 0.6669281,
+    "lng": 121.4830862,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Gorontalo",
+    "kab-kota": "Kota Gorontalo",
+    "latlng": "0.548965,123.0194211,14z",
+    "lat": 0.548965,
+    "lng": 123.0194211,
+    "zoom": 14
+  },
+  {
+    "provinsi": "Sulawesi Barat",
+    "kab-kota": "Kabupaten Majene",
+    "latlng": "-3.2419709,118.7712174,11z",
+    "lat": -3.2419709,
+    "lng": 118.7712174,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sulawesi Barat",
+    "kab-kota": "Kabupaten Mamasa",
+    "latlng": "-2.9960553,119.1588648,11z",
+    "lat": -2.9960553,
+    "lng": 119.1588648,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sulawesi Barat",
+    "kab-kota": "Kabupaten Mamuju",
+    "latlng": "-2.551387,119.0864212,11z",
+    "lat": -2.551387,
+    "lng": 119.0864212,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sulawesi Barat",
+    "kab-kota": "Kabupaten Mamuju Tengah",
+    "latlng": "-2.0206125,119.3370328,11z",
+    "lat": -2.0206125,
+    "lng": 119.3370328,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Sulawesi Barat",
+    "kab-kota": "Kabupaten Pasangkayu",
+    "latlng": "-1.3430052,119.2464515,10z",
+    "lat": -1.3430052,
+    "lng": 119.2464515,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Sulawesi Barat",
+    "kab-kota": "Kabupaten Polewali Mandar",
+    "latlng": "-3.3022885,119.0313078,11z",
+    "lat": -3.3022885,
+    "lng": 119.0313078,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Maluku",
+    "kab-kota": "Kabupaten Buru",
+    "latlng": "-3.3445044,126.5260888,11z",
+    "lat": -3.3445044,
+    "lng": 126.5260888,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Maluku",
+    "kab-kota": "Kabupaten Buru Selatan",
+    "latlng": "-3.5697197,126.3581112,10z",
+    "lat": -3.5697197,
+    "lng": 126.3581112,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Maluku",
+    "kab-kota": "Kabupaten Kepulauan Aru",
+    "latlng": "-6.2101328,133.8205971,9z",
+    "lat": -6.2101328,
+    "lng": 133.8205971,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Maluku",
+    "kab-kota": "Kabupaten Kepulauan Tanimbar",
+    "latlng": "-7.4975482,130.7227171,9z",
+    "lat": -7.4975482,
+    "lng": 130.7227171,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Maluku",
+    "kab-kota": "Kabupaten Maluku Barat Daya",
+    "latlng": "-6.8094593,127.2483081,9z",
+    "lat": -6.8094593,
+    "lng": 127.2483081,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Maluku",
+    "kab-kota": "Kabupaten Maluku Tengah",
+    "latlng": "-3.6637601,128.3488079,9z",
+    "lat": -3.6637601,
+    "lng": 128.3488079,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Maluku",
+    "kab-kota": "Kabupaten Maluku Tenggara",
+    "latlng": "-5.6553166,132.6449909,11z",
+    "lat": -5.6553166,
+    "lng": 132.6449909,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Maluku",
+    "kab-kota": "Kabupaten Seram Bagian Barat",
+    "latlng": "-2.434455,127.5443093,9z",
+    "lat": -2.434455,
+    "lng": 127.5443093,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Maluku",
+    "kab-kota": "Kabupaten Seram Bagian Timur",
+    "latlng": "-3.8751999,127.8346367,8z",
+    "lat": -3.8751999,
+    "lng": 127.8346367,
+    "zoom": 8
+  },
+  {
+    "provinsi": "Maluku",
+    "kab-kota": "Kota Ambon",
+    "latlng": "-3.6812404,128.0876088,12z",
+    "lat": -3.6812404,
+    "lng": 128.0876088,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Maluku",
+    "kab-kota": "Kota Tual",
+    "latlng": "-5.4494693,132.1742612,11z",
+    "lat": -5.4494693,
+    "lng": 132.1742612,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Maluku Utara",
+    "kab-kota": "Kabupaten Halmahera Barat",
+    "latlng": "1.3637675,127.2633543,10z",
+    "lat": 1.3637675,
+    "lng": 127.2633543,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Maluku Utara",
+    "kab-kota": "Kabupaten Halmahera Selatan",
+    "latlng": "-0.7442142,127.1536666,9z",
+    "lat": -0.7442142,
+    "lng": 127.1536666,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Maluku Utara",
+    "kab-kota": "Kabupaten Halmahera Tengah",
+    "latlng": "0.2218091,128.3834099,10z",
+    "lat": 0.2218091,
+    "lng": 128.3834099,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Maluku Utara",
+    "kab-kota": "Kabupaten Halmahera Timur",
+    "latlng": "1.0035775,127.8950868,10z",
+    "lat": 1.0035775,
+    "lng": 127.8950868,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Maluku Utara",
+    "kab-kota": "Kabupaten Halmahera Utara",
+    "latlng": "1.5601662,127.5052653,10z",
+    "lat": 1.5601662,
+    "lng": 127.5052653,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Maluku Utara",
+    "kab-kota": "Kabupaten Kepulauan Sula",
+    "latlng": "-2.1142066,125.7426493,11z",
+    "lat": -2.1142066,
+    "lng": 125.7426493,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Maluku Utara",
+    "kab-kota": "Kabupaten Pulau Morotai",
+    "latlng": "2.3041265,128.2447212,11z",
+    "lat": 2.3041265,
+    "lng": 128.2447212,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Maluku Utara",
+    "kab-kota": "Kabupaten Pulau Taliabu",
+    "latlng": "-1.8313243,124.6669518,11z",
+    "lat": -1.8313243,
+    "lng": 124.6669518,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Maluku Utara",
+    "kab-kota": "Kota Ternate",
+    "latlng": "0.8105654,127.3008663,13z",
+    "lat": 0.8105654,
+    "lng": 127.3008663,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Maluku Utara",
+    "kab-kota": "Kota Tidore Kepulauan",
+    "latlng": "0.3903567,127.4320557,11z",
+    "lat": 0.3903567,
+    "lng": 127.4320557,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Papua",
+    "kab-kota": "Kabupaten Biak Numfor",
+    "latlng": "-1.0120881,135.4159425,10z",
+    "lat": -1.0120881,
+    "lng": 135.4159425,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Papua",
+    "kab-kota": "Kabupaten Jayapura",
+    "latlng": "-3.0355301,139.7081056,10z",
+    "lat": -3.0355301,
+    "lng": 139.7081056,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Papua",
+    "kab-kota": "Kabupaten Keerom",
+    "latlng": "-3.3260054,140.32337,10z",
+    "lat": -3.3260054,
+    "lng": 140.32337,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Papua",
+    "kab-kota": "Kabupaten Kepulauan Yapen",
+    "latlng": "-1.7194296,135.7021376,10z",
+    "lat": -1.7194296,
+    "lng": 135.7021376,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Papua",
+    "kab-kota": "Kabupaten Mamberamo Raya",
+    "latlng": "-2.4416855,137.3178673,9z",
+    "lat": -2.4416855,
+    "lng": 137.3178673,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Papua",
+    "kab-kota": "Kabupaten Sarmi",
+    "latlng": "-2.5310657,138.4071809,9z",
+    "lat": -2.5310657,
+    "lng": 138.4071809,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Papua",
+    "kab-kota": "Kabupaten Supiori",
+    "latlng": "-0.0135334,134.3902539,9z",
+    "lat": -0.0135334,
+    "lng": 134.3902539,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Papua",
+    "kab-kota": "Kabupaten Waropen",
+    "latlng": "-2.7288019,136.3672491,10z",
+    "lat": -2.7288019,
+    "lng": 136.3672491,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Papua",
+    "kab-kota": "Kota Jayapura",
+    "latlng": "-2.5650516,140.6398283,13z",
+    "lat": -2.5650516,
+    "lng": 140.6398283,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Papua Barat",
+    "kab-kota": "Kabupaten Fakfak",
+    "latlng": "-3.1999795,132.3031586,10z",
+    "lat": -3.1999795,
+    "lng": 132.3031586,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Papua Barat",
+    "kab-kota": "Kabupaten Kaimana",
+    "latlng": "-3.5839294,133.7002332,10z",
+    "lat": -3.5839294,
+    "lng": 133.7002332,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Papua Barat",
+    "kab-kota": "Kabupaten Manokwari",
+    "latlng": "-0.8642815,134.0328991,13z",
+    "lat": -0.8642815,
+    "lng": 134.0328991,
+    "zoom": 13
+  },
+  {
+    "provinsi": "Papua Barat",
+    "kab-kota": "Kabupaten Manokwari Selatan",
+    "latlng": "-0.9980788,133.9199264,12z",
+    "lat": -0.9980788,
+    "lng": 133.9199264,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Papua Barat",
+    "kab-kota": "Kabupaten Pegunungan Arfak",
+    "latlng": "-1.1882734,133.5560402,11z",
+    "lat": -1.1882734,
+    "lng": 133.5560402,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Papua Barat",
+    "kab-kota": "Kabupaten Teluk Bintuni",
+    "latlng": "-2.0855247,132.6630396,9z",
+    "lat": -2.0855247,
+    "lng": 132.6630396,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Papua Barat",
+    "kab-kota": "Kabupaten Teluk Wondama",
+    "latlng": "-2.6348115,133.8233234,9z",
+    "lat": -2.6348115,
+    "lng": 133.8233234,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Papua Selatan",
+    "kab-kota": "Kabupaten Asmat",
+    "latlng": "-5.5806551,137.9379555,9z",
+    "lat": -5.5806551,
+    "lng": 137.9379555,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Papua Selatan",
+    "kab-kota": "Kabupaten Boven Digoel",
+    "latlng": "-6.1518138,139.6628555,9z",
+    "lat": -6.1518138,
+    "lng": 139.6628555,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Papua Selatan",
+    "kab-kota": "Kabupaten Mappi",
+    "latlng": "-6.245705,138.6572671,9z",
+    "lat": -6.245705,
+    "lng": 138.6572671,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Papua Selatan",
+    "kab-kota": "Kabupaten Merauke",
+    "latlng": "-8.5282296,140.4598749,12z",
+    "lat": -8.5282296,
+    "lng": 140.4598749,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Papua Tengah",
+    "kab-kota": "Kabupaten Deiyai",
+    "latlng": "-4.155534,136.3257589,12z",
+    "lat": -4.155534,
+    "lng": 136.3257589,
+    "zoom": 12
+  },
+  {
+    "provinsi": "Papua Tengah",
+    "kab-kota": "Kabupaten Dogiyai",
+    "latlng": "-3.9990385,135.4724843,11z",
+    "lat": -3.9990385,
+    "lng": 135.4724843,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Papua Tengah",
+    "kab-kota": "Kabupaten Intan Jaya",
+    "latlng": "-3.4078672,136.4128952,10z",
+    "lat": -3.4078672,
+    "lng": 136.4128952,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Papua Tengah",
+    "kab-kota": "Kabupaten Mimika",
+    "latlng": "-4.628273,135.6831231,9z",
+    "lat": -4.628273,
+    "lng": 135.6831231,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Papua Tengah",
+    "kab-kota": "Kabupaten Nabire",
+    "latlng": "-3.2056703,135.1668342,10z",
+    "lat": -3.2056703,
+    "lng": 135.1668342,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Papua Tengah",
+    "kab-kota": "Kabupaten Paniai",
+    "latlng": "-3.7574388,136.4175068,11z",
+    "lat": -3.7574388,
+    "lng": 136.4175068,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Papua Tengah",
+    "kab-kota": "Kabupaten Puncak",
+    "latlng": "-3.5919553,137.0871392,10z",
+    "lat": -3.5919553,
+    "lng": 137.0871392,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Papua Tengah",
+    "kab-kota": "Kabupaten Puncak Jaya",
+    "latlng": "-3.4890854,137.6800873,11z",
+    "lat": -3.4890854,
+    "lng": 137.6800873,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Papua Pegunungan",
+    "kab-kota": "Kabupaten Jayawijaya",
+    "latlng": "-4.122218,138.8127593,11z",
+    "lat": -4.122218,
+    "lng": 138.8127593,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Papua Pegunungan",
+    "kab-kota": "Kabupaten Lanny Jaya",
+    "latlng": "-3.9569142,138.0383948,11z",
+    "lat": -3.9569142,
+    "lng": 138.0383948,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Papua Pegunungan",
+    "kab-kota": "Kabupaten Mamberamo Tengah",
+    "latlng": "-2.3592517,138.1274128,11z",
+    "lat": -2.3592517,
+    "lng": 138.1274128,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Papua Pegunungan",
+    "kab-kota": "Kabupaten Nduga",
+    "latlng": "-4.4357944,138.0539938,11z",
+    "lat": -4.4357944,
+    "lng": 138.0539938,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Papua Pegunungan",
+    "kab-kota": "Kabupaten Pegunungan Bintang",
+    "latlng": "-4.4940565,140.1488329,10z",
+    "lat": -4.4940565,
+    "lng": 140.1488329,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Papua Pegunungan",
+    "kab-kota": "Kabupaten Tolikara",
+    "latlng": "-3.4884169,138.2386908,11z",
+    "lat": -3.4884169,
+    "lng": 138.2386908,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Papua Pegunungan",
+    "kab-kota": "Kabupaten Yalimo",
+    "latlng": "-3.7847687,139.2710088,11z",
+    "lat": -3.7847687,
+    "lng": 139.2710088,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Papua Pegunungan",
+    "kab-kota": "Kabupaten Yahukimo",
+    "latlng": "-4.3883495,139.2136938,10z",
+    "lat": -4.3883495,
+    "lng": 139.2136938,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Papua Barat Daya",
+    "kab-kota": "Kabupaten Maybrat",
+    "latlng": "-1.4238479,132.2031833,11z",
+    "lat": -1.4238479,
+    "lng": 132.2031833,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Papua Barat Daya",
+    "kab-kota": "Kabupaten Raja Ampat",
+    "latlng": "-0.5859875,129.660832,9z",
+    "lat": -0.5859875,
+    "lng": 129.660832,
+    "zoom": 9
+  },
+  {
+    "provinsi": "Papua Barat Daya",
+    "kab-kota": "Kabupaten Sorong",
+    "latlng": "-1.0515645,131.063159,10z",
+    "lat": -1.0515645,
+    "lng": 131.063159,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Papua Barat Daya",
+    "kab-kota": "Kabupaten Sorong Selatan",
+    "latlng": "-1.6668334,131.7887765,10z",
+    "lat": -1.6668334,
+    "lng": 131.7887765,
+    "zoom": 10
+  },
+  {
+    "provinsi": "Papua Barat Daya",
+    "kab-kota": "Kabupaten Tambrauw",
+    "latlng": "-0.7204172,132.3122123,11z",
+    "lat": -0.7204172,
+    "lng": 132.3122123,
+    "zoom": 11
+  },
+  {
+    "provinsi": "Papua Barat Daya",
+    "kab-kota": "Kota Sorong",
+    "latlng": "-0.892821,131.2231964,13z",
+    "lat": -0.892821,
+    "lng": 131.2231964,
+    "zoom": 13
+  }
+]
