@@ -1,0 +1,582 @@
+[
+  {
+    "nama": "Masjid Jami' Al-Muttaqien",
+    "lat": -6.4873033,
+    "lng": 106.7725733
+  },
+  {
+    "nama": "Masjid Jami' Baitul Faidzin",
+    "lat": -6.4803759,
+    "lng": 106.8232088
+  },
+  {
+    "nama": "Masjid Jami' Al-Masniah",
+    "lat": -6.508681,
+    "lng": 106.8022411
+  },
+  {
+    "nama": "Masjid Jami' Nurul Jannah",
+    "lat": -6.4914428,
+    "lng": 106.7645313
+  },
+  {
+    "nama": "Masjid Jami' Al-Ijabah",
+    "lat": -6.6992088,
+    "lng": 106.9872814
+  },
+  {
+    "nama": "Masjid Jami' Al-Ikhlash",
+    "lat": -6.4974969,
+    "lng": 106.7695432
+  },
+  {
+    "nama": "Masjid Jami' Multahada",
+    "lat": -6.4986276,
+    "lng": 106.7648754
+  },
+  {
+    "nama": "Masjid Jami' 'Ummul Qura'",
+    "lat": -6.4859677,
+    "lng": 106.7757552
+  },
+  {
+    "nama": "Masjid Jami' Al-Maunah",
+    "lat": -6.4937706,
+    "lng": 106.7599735
+  },
+  {
+    "nama": "Masjid Jami' Al-'Akhila",
+    "lat": -6.4810344,
+    "lng": 106.7734428
+  },
+  {
+    "nama": "Masjid Jami' Baiturrohim",
+    "lat": -6.5051675,
+    "lng": 106.7738293
+  },
+  {
+    "nama": "Masjid Jami' Nurul Iman",
+    "lat": -6.5008354,
+    "lng": 106.8101424
+  },
+  {
+    "nama": "Masjid Jami' Darussalam",
+    "lat": -6.491392,
+    "lng": 106.762782
+  },
+  {
+    "nama": "Masjid Nurul Kamal",
+    "lat": -6.4858337,
+    "lng": 106.7706595
+  },
+  {
+    "nama": "Masjid Jami' Al-Ittihad",
+    "lat": -6.5049562,
+    "lng": 106.7899632
+  },
+  {
+    "nama": "Masjid Jami' Asy-Syifa Hanum",
+    "lat": -6.4929205,
+    "lng": 106.7868237
+  },
+  {
+    "nama": "Masjid Baiturrohim",
+    "lat": -6.4896842,
+    "lng": 106.7585113
+  },
+  {
+    "nama": "Masjid Jami Inayatullah",
+    "lat": -6.5017296,
+    "lng": 106.7697196
+  },
+  {
+    "nama": "Masjid Jami' Al-Fattaah",
+    "lat": -6.5071938,
+    "lng": 106.7620923
+  },
+  {
+    "nama": "Masjid Jami' Al-Ijabah",
+    "lat": -6.494394,
+    "lng": 106.7580975
+  },
+  {
+    "nama": "Masjid Agung Al-Ittihad Pakansari",
+    "lat": -6.5393754,
+    "lng": 106.781898
+  },
+  {
+    "nama": "Masjid Jami' Al Muthia",
+    "lat": -6.4859677,
+    "lng": 106.7757552
+  },
+  {
+    "nama": "Masjid Jami' Al-Ittihad",
+    "lat": -6.4847589,
+    "lng": 106.837152
+  },
+  {
+    "nama": "Masjid Jami' Asy-Syifa Hanum",
+    "lat": -6.6323144,
+    "lng": 106.8016784
+  },
+  {
+    "nama": "Masjid Raya Al-Hijri 2",
+    "lat": -6.5017296,
+    "lng": 106.7697196
+  },
+  {
+    "nama": "Masjid Jami Al-Ikhlas Pancasan Atas",
+    "lat": -6.5071938,
+    "lng": 106.7620923
+  },
+  {
+    "nama": "Masjid Jami' Darajaturrahman",
+    "lat": -6.5610151,
+    "lng": 106.7926307
+  },
+  {
+    "nama": "Masjid Jami' Al-Fudhola",
+    "lat": -6.6076868,
+    "lng": 106.7895058
+  },
+  {
+    "nama": "Masjid Jami' Nurul Iman",
+    "lat": -6.5319874,
+    "lng": 106.7966803
+  },
+  {
+    "nama": "Masjid Al Muawanah",
+    "lat": -6.5127125,
+    "lng": 106.8322344
+  },
+  {
+    "nama": "Masjid Jamie Al Muttaqin",
+    "lat": -6.5049562,
+    "lng": 106.7899632
+  },
+  {
+    "nama": "Masjid Jami' Al-Ikhlas %28Area Puri Nirwana 2%29",
+    "lat": -6.4784632,
+    "lng": 106.8640072
+  },
+  {
+    "nama": "Masjid Jami' Al-Barokah",
+    "lat": -6.5422603,
+    "lng": 106.7742083
+  },
+  {
+    "nama": "Masjid Al-Ikhlas",
+    "lat": -6.4595048,
+    "lng": 106.8410609
+  },
+  {
+    "nama": "Masjid Al-Magfirah",
+    "lat": -6.4768279,
+    "lng": 106.763872
+  },
+  {
+    "nama": "Masjid Jami' Ash-Sholihin",
+    "lat": -6.501689,
+    "lng": 106.8052599
+  },
+  {
+    "nama": "Masjid Jami' Al-Kautsar",
+    "lat": -6.5421064,
+    "lng": 106.825471
+  },
+  {
+    "nama": "Masjid Jami Al Falah",
+    "lat": -6.5708552,
+    "lng": 106.7819881
+  },
+  {
+    "nama": "Masjid Jami' Al-Mi'raj",
+    "lat": -6.4844346,
+    "lng": 106.7915389
+  },
+  {
+    "nama": "Masjid King Abdurrahman Al Khair",
+    "lat": -6.5996256,
+    "lng": 106.7593395
+  },
+  {
+    "nama": "Masjid Agung Harakatul Jannah",
+    "lat": -6.5743085,
+    "lng": 106.8243927
+  },
+  {
+    "nama": "Masjid Jami' Al-Hikmah",
+    "lat": -6.4724289,
+    "lng": 106.8327505
+  },
+  {
+    "nama": "Masjid Al Ikhlas",
+    "lat": -6.6559382,
+    "lng": 106.8596896
+  },
+  {
+    "nama": "Masjid Jami' Al-'Akhila",
+    "lat": -6.4840536,
+    "lng": 106.7451368
+  },
+  {
+    "nama": "Masjid Jami' Al-Mubarokah",
+    "lat": -6.5485231,
+    "lng": 106.8001805
+  },
+  {
+    "nama": "Masjid Baiturrohim",
+    "lat": -6.491392,
+    "lng": 106.762782
+  },
+  {
+    "nama": "Masjid Jami' Umar bin Khattab",
+    "lat": -6.508678,
+    "lng": 106.7523564
+  },
+  {
+    "nama": "Masjid Nurul Ahbaab Ash-Solahiyyah",
+    "lat": -6.494394,
+    "lng": 106.7580975
+  },
+  {
+    "nama": "Masjid Jami' Al-Islam",
+    "lat": -6.4696671,
+    "lng": 106.7405499
+  },
+  {
+    "nama": "Masjid Jami' 'Ummul Qura' Bogor",
+    "lat": -6.5578383,
+    "lng": 106.8149973
+  },
+  {
+    "nama": "Masjid Jami' Al-Mukhtar",
+    "lat": -6.4962291,
+    "lng": 106.7398626
+  },
+  {
+    "nama": "Masjid Jami' Nurul Iman",
+    "lat": -6.5271722,
+    "lng": 106.7640317
+  },
+  {
+    "nama": "Masjid Jami' Al-Madinah",
+    "lat": -6.4737887,
+    "lng": 106.8652914
+  },
+  {
+    "nama": "Masjid Jami' Baiturrahman",
+    "lat": -6.4592599,
+    "lng": 106.74019
+  },
+  {
+    "nama": "Masjid Jami' Al-Muasyaroh",
+    "lat": -6.4594853,
+    "lng": 106.7715054
+  },
+  {
+    "nama": "Masjid Jami' Nurul Huda",
+    "lat": -6.5112018,
+    "lng": 106.7859581
+  },
+  {
+    "nama": "Masjid Asy Syifa - RS PMI Bogor",
+    "lat": -6.5309687,
+    "lng": 106.800968
+  },
+  {
+    "nama": "Masjid Jami' At-Taqwa",
+    "lat": -6.5115226,
+    "lng": 106.8058573
+  },
+  {
+    "nama": "Masjid Nurul Huda",
+    "lat": -6.5984063,
+    "lng": 106.807232
+  },
+  {
+    "nama": "Masjid Jami Al-Barkah",
+    "lat": -6.4880284,
+    "lng": 106.7913469
+  },
+  {
+    "nama": "Masjid Jami' Baitul Akhfa",
+    "lat": -6.624049,
+    "lng": 106.8166153
+  },
+  {
+    "nama": "Masjid Jami' Al-Marhamah",
+    "lat": -6.4859825,
+    "lng": 106.782555
+  },
+  {
+    "nama": "Masjid Al-Hasanah",
+    "lat": -6.5131455,
+    "lng": 106.7851316
+  },
+  {
+    "nama": "Masjid Jami' An-Nur",
+    "lat": -6.4967932,
+    "lng": 106.760817
+  },
+  {
+    "nama": "Masjid At-Taubah",
+    "lat": -6.5194625,
+    "lng": 106.8349844
+  },
+  {
+    "nama": "Masjid Jami' Al-Muhajirin",
+    "lat": -6.490514,
+    "lng": 106.796646
+  },
+  {
+    "nama": "Masjid Jami' Nurul Iman",
+    "lat": -6.4775579,
+    "lng": 106.8488608
+  },
+  {
+    "nama": "Masjid Jami' Al-Hidayah",
+    "lat": -6.4997629,
+    "lng": 106.781457
+  },
+  {
+    "nama": "Masjid Jami' At-Taubah",
+    "lat": -6.5056841,
+    "lng": 106.7575491
+  },
+  {
+    "nama": "Masjid Atta'Awun Puncak",
+    "lat": -6.5109748,
+    "lng": 106.7543094
+  },
+  {
+    "nama": "Masjid Jami' At-Taufiq",
+    "lat": -6.4754231,
+    "lng": 106.7687579
+  },
+  {
+    "nama": "Masjid Kramat An Nur Empang Bogor.",
+    "lat": -6.6992088,
+    "lng": 106.9872814
+  },
+  {
+    "nama": "Masjid Jami' Al-Muttaqin",
+    "lat": -6.482039,
+    "lng": 106.8547391
+  },
+  {
+    "nama": "Masjid SINDANG RAYA",
+    "lat": -6.6086619,
+    "lng": 106.7958903
+  },
+  {
+    "nama": "Masjid Jami' Al-Hidayah",
+    "lat": -6.4922883,
+    "lng": 106.8360645
+  },
+  {
+    "nama": "Masjid Alumni IPB",
+    "lat": -6.6274454,
+    "lng": 106.7692097
+  },
+  {
+    "nama": "Masjid Jami' At-Taqwa",
+    "lat": -6.4792502,
+    "lng": 106.7720095
+  },
+  {
+    "nama": "Masjid Al - Ikhlas",
+    "lat": -6.6023394,
+    "lng": 106.8069068
+  },
+  {
+    "nama": "Masjid Baitul Marhamah",
+    "lat": -6.4771234,
+    "lng": 106.7856194
+  },
+  {
+    "nama": "Masjid Al Hijri",
+    "lat": -6.5283963,
+    "lng": 106.8553724
+  },
+  {
+    "nama": "Masjid Jami' Al-Muhajirin",
+    "lat": -6.5606637,
+    "lng": 106.825591
+  },
+  {
+    "nama": "Masjid Jami' Al-Muhtadin",
+    "lat": -6.6034794,
+    "lng": 106.7758732
+  },
+  {
+    "nama": "Masjid Jami' Khalid bin Walid",
+    "lat": -6.4958257,
+    "lng": 106.7854031
+  },
+  {
+    "nama": "Masjid Jami' An-Nuur",
+    "lat": -6.4713481,
+    "lng": 106.8423362
+  },
+  {
+    "nama": "Masjid Jami' Al-Madinah",
+    "lat": -6.5020542,
+    "lng": 106.7775181
+  },
+  {
+    "nama": "Masjid Jami' Nurul Ikhlas",
+    "lat": -6.4938526,
+    "lng": 106.755929
+  },
+  {
+    "nama": "Masjid Jami' Abu Bakar Ash-Shiddiq",
+    "lat": -6.4907375,
+    "lng": 106.7676719
+  },
+  {
+    "nama": "Masjid Jami Baitul Magfirah",
+    "lat": -6.4618186,
+    "lng": 106.7640732
+  },
+  {
+    "nama": "Masjid Nurul Kamal",
+    "lat": -6.4824183,
+    "lng": 106.769845
+  },
+  {
+    "nama": "Masjid At Taufiq",
+    "lat": -6.6072634,
+    "lng": 106.8039214
+  },
+  {
+    "nama": "Masjid Jami' Baitussalam",
+    "lat": -6.4896842,
+    "lng": 106.7585113
+  },
+  {
+    "nama": "Masjid Jami' Nurul Haq",
+    "lat": -6.563303,
+    "lng": 106.7870138
+  },
+  {
+    "nama": "Masjid Jami' Nurul Huda",
+    "lat": -6.5091984,
+    "lng": 106.7623127
+  },
+  {
+    "nama": "Masjid Agung Bogor",
+    "lat": -6.5696935,
+    "lng": 106.7885357
+  },
+  {
+    "nama": "Masjid Al Amanah",
+    "lat": -6.5099476,
+    "lng": 106.8792453
+  },
+  {
+    "nama": "Masjid Raya The Nature",
+    "lat": -6.5933468,
+    "lng": 106.7916457
+  },
+  {
+    "nama": "Masjid Jami' 'Azura",
+    "lat": -6.6038297,
+    "lng": 106.7780006
+  },
+  {
+    "nama": "Masjid Jami Al-Ikhlash",
+    "lat": -6.5143787,
+    "lng": 106.8446692
+  },
+  {
+    "nama": "Masjid Jami Al Ma'ruf",
+    "lat": -6.5017545,
+    "lng": 106.7482515
+  },
+  {
+    "nama": "Masjid As-Sofia",
+    "lat": -6.5689414,
+    "lng": 106.7799822
+  },
+  {
+    "nama": "Masjid Al-Ikhlas",
+    "lat": -6.608403,
+    "lng": 106.8065589
+  },
+  {
+    "nama": "Masjid Al Hidayah",
+    "lat": -6.582588,
+    "lng": 106.7881867
+  },
+  {
+    "nama": "Masjid Jami' Cimanggis",
+    "lat": -6.5690888,
+    "lng": 106.7573522
+  },
+  {
+    "nama": "Masjid Al-Wusto",
+    "lat": -6.5595599,
+    "lng": 106.8072575
+  },
+  {
+    "nama": "Masjid Jami' Rihlatul Jannah",
+    "lat": -6.508332,
+    "lng": 106.7706175
+  },
+  {
+    "nama": "Masjid Rizqon Hasanaa",
+    "lat": -6.5594276,
+    "lng": 106.7331413
+  },
+  {
+    "nama": "Masjid Bogor Baru",
+    "lat": -6.4844664,
+    "lng": 106.768921
+  },
+  {
+    "nama": "Masjid Adz-Dzikraa",
+    "lat": -6.5190981,
+    "lng": 106.8095737
+  },
+  {
+    "nama": "Masjid Jami' Al-Banna",
+    "lat": -6.593748,
+    "lng": 106.8103939
+  },
+  {
+    "nama": "Masjid Al-Furqon",
+    "lat": -6.591104,
+    "lng": 106.7907974
+  },
+  {
+    "nama": "Masjid Jami' Al-Jimahelah",
+    "lat": -6.4709431,
+    "lng": 106.747242
+  },
+  {
+    "nama": "Masjid Jami Al - Huda",
+    "lat": -6.4823133,
+    "lng": 106.7756909
+  },
+  {
+    "nama": "Masjid Jami' Al-Mukhlishin",
+    "lat": -6.4840258,
+    "lng": 106.835504
+  },
+  {
+    "nama": "Masjid Al Hidayah",
+    "lat": -6.4744024,
+    "lng": 106.8474861
+  },
+  {
+    "nama": "Masjid Jami' Al-Ikhlas",
+    "lat": -6.48305,
+    "lng": 106.773632
+  },
+  {
+    "nama": "Masjid Atta'Awun Puncak",
+    "lat": -6.5701707,
+    "lng": 106.8059599
+  }
+]
